@@ -1,0 +1,4500 @@
+[{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bcff"
+  },
+  "code": "pc1",
+  "title": "iPhone 9",
+  "description": "An apple mobile which is nothing like apple",
+  "slug": "iPhone 9",
+  "price": {
+    "originalPrice": 630,
+    "discountPercentage": 12.96
+  },
+  "rating": 4.69,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3132"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3182"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 94,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd00"
+  },
+  "code": "pc2",
+  "title": "iPhone X",
+  "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+  "slug": "iPhone X",
+  "price": {
+    "originalPrice": 1095,
+    "discountPercentage": 17.94
+  },
+  "rating": 4.44,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3132"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3182"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 34,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd01"
+  },
+  "code": "pc3",
+  "title": "Samsung Universe 9",
+  "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+  "slug": "Samsung Universe 9",
+  "price": {
+    "originalPrice": 1477,
+    "discountPercentage": 15.46
+  },
+  "rating": 4.09,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3133"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3182"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 36,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca760",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd02"
+  },
+  "code": "pc4",
+  "title": "OPPOF19",
+  "description": "OPPO F19 is officially announced on April 2021.",
+  "slug": "OPPOF19",
+  "price": {
+    "originalPrice": 341,
+    "discountPercentage": 17.91
+  },
+  "rating": 4.3,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3134"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3182"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 123,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd03"
+  },
+  "code": "pc5",
+  "title": "Huawei P30",
+  "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+  "slug": "Huawei P30",
+  "price": {
+    "originalPrice": 558,
+    "discountPercentage": 10.58
+  },
+  "rating": 4.09,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3135"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3182"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 32,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd04"
+  },
+  "code": "pc6",
+  "title": "MacBook Pro",
+  "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+  "slug": "MacBook Pro",
+  "price": {
+    "originalPrice": 1965,
+    "discountPercentage": 11.02
+  },
+  "rating": 4.57,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3132"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3183"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 83,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd05"
+  },
+  "code": "pc7",
+  "title": "Samsung Galaxy Book",
+  "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+  "slug": "Samsung Galaxy Book",
+  "price": {
+    "originalPrice": 1563,
+    "discountPercentage": 4.15
+  },
+  "rating": 4.25,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3133"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3183"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 50,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd06"
+  },
+  "code": "pc8",
+  "title": "Microsoft Surface Laptop 4",
+  "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+  "slug": "Microsoft Surface Laptop 4",
+  "price": {
+    "originalPrice": 1669,
+    "discountPercentage": 10.23
+  },
+  "rating": 4.43,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3136"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3183"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 68,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca764",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd07"
+  },
+  "code": "pc9",
+  "title": "Infinix INBOOK",
+  "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+  "slug": "Infinix INBOOK",
+  "price": {
+    "originalPrice": 1246,
+    "discountPercentage": 11.83
+  },
+  "rating": 4.54,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3137"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3183"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 96,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd08"
+  },
+  "code": "pc10",
+  "title": "HP Pavilion 15-DK1056WM",
+  "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+  "slug": "HP Pavilion 15-DK1056WM",
+  "price": {
+    "originalPrice": 1171,
+    "discountPercentage": 6.18
+  },
+  "rating": 4.43,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3138"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3183"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 89,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd09"
+  },
+  "code": "pc11",
+  "title": "perfume Oil",
+  "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+  "slug": "perfume Oil",
+  "price": {
+    "originalPrice": 14,
+    "discountPercentage": 8.4
+  },
+  "rating": 4.26,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3139"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3184"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 65,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0a"
+  },
+  "code": "pc12",
+  "title": "Brown Perfume",
+  "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+  "slug": "Brown Perfume",
+  "price": {
+    "originalPrice": 47,
+    "discountPercentage": 15.66
+  },
+  "rating": 4,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3184"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 52,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0b"
+  },
+  "code": "pc13",
+  "title": "Fog Scent Xpressio Perfume",
+  "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+  "slug": "Fog Scent Xpressio Perfume",
+  "price": {
+    "originalPrice": 14,
+    "discountPercentage": 8.14
+  },
+  "rating": 4.59,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3184"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 61,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0c"
+  },
+  "code": "pc14",
+  "title": "Non-Alcoholic Concentrated Perfume Oil",
+  "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+  "slug": "Non-Alcoholic Concentrated Perfume Oil",
+  "price": {
+    "originalPrice": 142,
+    "discountPercentage": 15.6
+  },
+  "rating": 4.21,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3184"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 114,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca762",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0d"
+  },
+  "code": "pc15",
+  "title": "Eau De Perfume Spray",
+  "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+  "slug": "Eau De Perfume Spray",
+  "price": {
+    "originalPrice": 33,
+    "discountPercentage": 10.99
+  },
+  "rating": 4.7,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3184"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 105,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0e"
+  },
+  "code": "pc16",
+  "title": "Hyaluronic Acid Serum",
+  "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+  "slug": "Hyaluronic Acid Serum",
+  "price": {
+    "originalPrice": 21,
+    "discountPercentage": 13.31
+  },
+  "rating": 4.83,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3185"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 110,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd0f"
+  },
+  "code": "pc17",
+  "title": "Tree Oil 30ml",
+  "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+  "slug": "Tree Oil 30ml",
+  "price": {
+    "originalPrice": 12,
+    "discountPercentage": 4.09
+  },
+  "rating": 4.52,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d313f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3185"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 78,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd10"
+  },
+  "code": "pc18",
+  "title": "Oil Free Moisturizer 100ml",
+  "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+  "slug": "Oil Free Moisturizer 100ml",
+  "price": {
+    "originalPrice": 46,
+    "discountPercentage": 13.1
+  },
+  "rating": 4.56,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3140"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3185"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 88,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca762",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd11"
+  },
+  "code": "pc19",
+  "title": "Skin Beauty Serum.",
+  "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+  "slug": "Skin Beauty Serum.",
+  "price": {
+    "originalPrice": 51,
+    "discountPercentage": 10.68
+  },
+  "rating": 4.42,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3141"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3185"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 54,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd12"
+  },
+  "code": "pc20",
+  "title": "Freckle Treatment Cream- 15gm",
+  "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+  "slug": "Freckle Treatment Cream- 15gm",
+  "price": {
+    "originalPrice": 84,
+    "discountPercentage": 16.99
+  },
+  "rating": 4.06,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3142"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3185"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 140,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd13"
+  },
+  "code": "pc21",
+  "title": "- Daal Masoor 500 grams",
+  "description": "Fine quality Branded Product Keep in a cool and dry place",
+  "slug": "- Daal Masoor 500 grams",
+  "price": {
+    "originalPrice": 21,
+    "discountPercentage": 4.81
+  },
+  "rating": 4.44,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3143"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3186"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 133,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd14"
+  },
+  "code": "pc22",
+  "title": "Elbow Macaroni - 400 gm",
+  "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+  "slug": "Elbow Macaroni - 400 gm",
+  "price": {
+    "originalPrice": 16,
+    "discountPercentage": 15.58
+  },
+  "rating": 4.57,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3144"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3186"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 146,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd15"
+  },
+  "code": "pc23",
+  "title": "Orange Essence Food Flavou",
+  "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+  "slug": "Orange Essence Food Flavou",
+  "price": {
+    "originalPrice": 15,
+    "discountPercentage": 8.04
+  },
+  "rating": 4.85,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3145"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3186"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 26,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd16"
+  },
+  "code": "pc24",
+  "title": "cereals muesli fruit nuts",
+  "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+  "slug": "cereals muesli fruit nuts",
+  "price": {
+    "originalPrice": 55,
+    "discountPercentage": 16.8
+  },
+  "rating": 4.94,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3146"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3186"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 113,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca762",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd17"
+  },
+  "code": "pc25",
+  "title": "Gulab Powder 50 Gram",
+  "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+  "slug": "Gulab Powder 50 Gram",
+  "price": {
+    "originalPrice": 80,
+    "discountPercentage": 13.58
+  },
+  "rating": 4.87,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3147"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3186"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 47,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd18"
+  },
+  "code": "pc26",
+  "title": "Plant Hanger For Home",
+  "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+  "slug": "Plant Hanger For Home",
+  "price": {
+    "originalPrice": 49,
+    "discountPercentage": 17.86
+  },
+  "rating": 4.08,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3148"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3187"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 131,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd19"
+  },
+  "code": "pc27",
+  "title": "Flying Wooden Bird",
+  "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+  "slug": "Flying Wooden Bird",
+  "price": {
+    "originalPrice": 60,
+    "discountPercentage": 15.58
+  },
+  "rating": 4.41,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3149"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3187"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 17,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca764",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1a"
+  },
+  "code": "pc28",
+  "title": "3D Embellishment Art Lamp",
+  "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+  "slug": "3D Embellishment Art Lamp",
+  "price": {
+    "originalPrice": 23,
+    "discountPercentage": 16.49
+  },
+  "rating": 4.82,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3187"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 54,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1b"
+  },
+  "code": "pc29",
+  "title": "Handcraft Chinese style",
+  "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+  "slug": "Handcraft Chinese style",
+  "price": {
+    "originalPrice": 70,
+    "discountPercentage": 15.34
+  },
+  "rating": 4.44,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3187"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 7,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1c"
+  },
+  "code": "pc30",
+  "title": "Key Holder",
+  "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+  "slug": "Key Holder",
+  "price": {
+    "originalPrice": 30,
+    "discountPercentage": 2.92
+  },
+  "rating": 4.92,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3187"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 54,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1d"
+  },
+  "code": "pc31",
+  "title": "Mornadi Velvet Bed",
+  "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+  "slug": "Mornadi Velvet Bed",
+  "price": {
+    "originalPrice": 48,
+    "discountPercentage": 17
+  },
+  "rating": 4.16,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3188"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 140,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1e"
+  },
+  "code": "pc32",
+  "title": "Sofa for Coffe Cafe",
+  "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe",
+  "slug": "Sofa for Coffe Cafe",
+  "price": {
+    "originalPrice": 59,
+    "discountPercentage": 15.59
+  },
+  "rating": 4.74,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3188"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 30,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd1f"
+  },
+  "code": "pc33",
+  "title": "3 Tier Corner Shelves",
+  "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+  "slug": "3 Tier Corner Shelves",
+  "price": {
+    "originalPrice": 843,
+    "discountPercentage": 17
+  },
+  "rating": 4.31,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d314f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3188"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 106,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd20"
+  },
+  "code": "pc34",
+  "title": "Plastic Table",
+  "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+  "slug": "Plastic Table",
+  "price": {
+    "originalPrice": 52,
+    "discountPercentage": 4
+  },
+  "rating": 4.01,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3150"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3188"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 136,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd21"
+  },
+  "code": "pc35",
+  "title": "3 DOOR PORTABLE",
+  "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+  "slug": "3 DOOR PORTABLE",
+  "price": {
+    "originalPrice": 44,
+    "discountPercentage": 7.98
+  },
+  "rating": 4.06,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3151"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3188"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 68,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd22"
+  },
+  "code": "pc36",
+  "title": "Sleeve Shirt Womens",
+  "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+  "slug": "Sleeve Shirt Womens",
+  "price": {
+    "originalPrice": 100,
+    "discountPercentage": 10.89
+  },
+  "rating": 4.26,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3152"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3189"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 39,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd23"
+  },
+  "code": "pc37",
+  "title": "ank Tops for Womens/Girls",
+  "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS",
+  "slug": "ank Tops for Womens/Girls",
+  "price": {
+    "originalPrice": 56,
+    "discountPercentage": 12.05
+  },
+  "rating": 4.52,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3153"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3189"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 107,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd24"
+  },
+  "code": "pc38",
+  "title": "sublimation plain kids tank",
+  "description": "sublimation plain kids tank tops wholesale",
+  "slug": "sublimation plain kids tank",
+  "price": {
+    "originalPrice": 112,
+    "discountPercentage": 11.12
+  },
+  "rating": 4.8,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3153"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3189"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 20,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd25"
+  },
+  "code": "pc39",
+  "title": "Women Sweaters Wool",
+  "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater",
+  "slug": "Women Sweaters Wool",
+  "price": {
+    "originalPrice": 724,
+    "discountPercentage": 17.2
+  },
+  "rating": 4.55,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3154"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3189"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 55,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd26"
+  },
+  "code": "pc40",
+  "title": "women winter clothes",
+  "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set",
+  "slug": "women winter clothes",
+  "price": {
+    "originalPrice": 65,
+    "discountPercentage": 13.39
+  },
+  "rating": 4.91,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3154"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3189"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 84,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd27"
+  },
+  "code": "pc41",
+  "title": "NIGHT SUIT",
+  "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+  "slug": "NIGHT SUIT",
+  "price": {
+    "originalPrice": 64,
+    "discountPercentage": 15.05
+  },
+  "rating": 4.65,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3155"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318a"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 21,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd28"
+  },
+  "code": "pc42",
+  "title": "Stiched Kurta plus trouser",
+  "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+  "slug": "Stiched Kurta plus trouser",
+  "price": {
+    "originalPrice": 94,
+    "discountPercentage": 15.37
+  },
+  "rating": 4.05,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3156"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318a"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 148,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd29"
+  },
+  "code": "pc43",
+  "title": "frock gold printed",
+  "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+  "slug": "frock gold printed",
+  "price": {
+    "originalPrice": 710,
+    "discountPercentage": 15.55
+  },
+  "rating": 4.31,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3157"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318a"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 150,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2a"
+  },
+  "code": "pc44",
+  "title": "Ladies Multicolored Dress",
+  "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+  "slug": "Ladies Multicolored Dress",
+  "price": {
+    "originalPrice": 95,
+    "discountPercentage": 16.88
+  },
+  "rating": 4.03,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3157"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318a"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 2,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2b"
+  },
+  "code": "pc45",
+  "title": "Malai Maxi Dress",
+  "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+  "slug": "Malai Maxi Dress",
+  "price": {
+    "originalPrice": 52,
+    "discountPercentage": 5.07
+  },
+  "rating": 4.67,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3158"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318a"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 96,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2c"
+  },
+  "code": "pc46",
+  "title": "women's shoes",
+  "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
+  "slug": "women's shoes",
+  "price": {
+    "originalPrice": 48,
+    "discountPercentage": 16.96
+  },
+  "rating": 4.14,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3159"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318b"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 72,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2d"
+  },
+  "code": "pc47",
+  "title": "Sneaker shoes",
+  "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
+  "slug": "Sneaker shoes",
+  "price": {
+    "originalPrice": 133,
+    "discountPercentage": 10.37
+  },
+  "rating": 4.19,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318b"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 50,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2e"
+  },
+  "code": "pc48",
+  "title": "Women Strip Heel",
+  "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+  "slug": "Women Strip Heel",
+  "price": {
+    "originalPrice": 44,
+    "discountPercentage": 10.83
+  },
+  "rating": 4.02,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318b"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 25,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd2f"
+  },
+  "code": "pc49",
+  "title": "Chappals & Shoe Ladies Metallic",
+  "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+  "slug": "Chappals & Shoe Ladies Metallic",
+  "price": {
+    "originalPrice": 23,
+    "discountPercentage": 2.62
+  },
+  "rating": 4.72,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318b"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 107,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd30"
+  },
+  "code": "pc50",
+  "title": "Women Shoes",
+  "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+  "slug": "Women Shoes",
+  "price": {
+    "originalPrice": 43,
+    "discountPercentage": 16.87
+  },
+  "rating": 4.33,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318b"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 46,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca760",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd31"
+  },
+  "code": "pc51",
+  "title": "half sleeves T shirts",
+  "description": "Many store is creating new designs and trend every month and every year. Daraz.pk have a beautiful range of men fashion brands",
+  "slug": "half sleeves T shirts",
+  "price": {
+    "originalPrice": 26,
+    "discountPercentage": 12.76
+  },
+  "rating": 4.26,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318c"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 132,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca764",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd32"
+  },
+  "code": "pc52",
+  "title": "FREE FIRE T Shirt",
+  "description": "quality and professional print - It doesn't just look high quality, it is high quality.",
+  "slug": "FREE FIRE T Shirt",
+  "price": {
+    "originalPrice": 11,
+    "discountPercentage": 14.72
+  },
+  "rating": 4.52,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318c"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 128,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd33"
+  },
+  "code": "pc53",
+  "title": "printed high quality T shirts",
+  "description": "Brand: vintage Apparel ,Export quality",
+  "slug": "printed high quality T shirts",
+  "price": {
+    "originalPrice": 37,
+    "discountPercentage": 7.54
+  },
+  "rating": 4.89,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d315e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318c"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 6,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd34"
+  },
+  "code": "pc54",
+  "title": "Pubg Printed Graphic T-Shirt",
+  "description": "Product Description Features: 100% Ultra soft Polyester Jersey. Vibrant & colorful printing on front. Feels soft as cotton without ever cracking",
+  "slug": "Pubg Printed Graphic T-Shirt",
+  "price": {
+    "originalPrice": 55,
+    "discountPercentage": 16.44
+  },
+  "rating": 4.62,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3160"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318c"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 136,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd35"
+  },
+  "code": "pc55",
+  "title": "Money Heist Printed Summer T Shirts",
+  "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched",
+  "slug": "Money Heist Printed Summer T Shirts",
+  "price": {
+    "originalPrice": 78,
+    "discountPercentage": 15.97
+  },
+  "rating": 4.9,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3160"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318c"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 122,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd36"
+  },
+  "code": "pc56",
+  "title": "Sneakers Joggers Shoes",
+  "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+  "slug": "Sneakers Joggers Shoes",
+  "price": {
+    "originalPrice": 45,
+    "discountPercentage": 12.57
+  },
+  "rating": 4.38,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3161"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318d"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 6,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd37"
+  },
+  "code": "pc57",
+  "title": "Loafers for men",
+  "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+  "slug": "Loafers for men",
+  "price": {
+    "originalPrice": 52,
+    "discountPercentage": 10.91
+  },
+  "rating": 4.91,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3162"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318d"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 20,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd38"
+  },
+  "code": "pc58",
+  "title": "formal offices shoes",
+  "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+  "slug": "formal offices shoes",
+  "price": {
+    "originalPrice": 64,
+    "discountPercentage": 12
+  },
+  "rating": 4.41,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3160"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318d"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 68,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd39"
+  },
+  "code": "pc59",
+  "title": "Spring and summershoes",
+  "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+  "slug": "Spring and summershoes",
+  "price": {
+    "originalPrice": 21,
+    "discountPercentage": 8.71
+  },
+  "rating": 4.33,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3161"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318d"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 137,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3a"
+  },
+  "code": "pc60",
+  "title": "Stylish Casual Jeans Shoes",
+  "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+  "slug": "Stylish Casual Jeans Shoes",
+  "price": {
+    "originalPrice": 62,
+    "discountPercentage": 7.55
+  },
+  "rating": 4.55,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3161"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318d"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 129,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3b"
+  },
+  "code": "pc61",
+  "title": "Leather Straps Wristwatch",
+  "description": "Style:Sport ,Clasp:Buckles ,Water Resistance Depth:3Bar",
+  "slug": "Leather Straps Wristwatch",
+  "price": {
+    "originalPrice": 129,
+    "discountPercentage": 7.14
+  },
+  "rating": 4.63,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3163"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318e"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 91,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3c"
+  },
+  "code": "pc62",
+  "title": "Waterproof Leather Brand Watch",
+  "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
+  "slug": "Waterproof Leather Brand Watch",
+  "price": {
+    "originalPrice": 47,
+    "discountPercentage": 3.15
+  },
+  "rating": 4.05,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3164"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318e"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 95,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3d"
+  },
+  "code": "pc63",
+  "title": "Royal Blue Premium Watch",
+  "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch",
+  "slug": "Royal Blue Premium Watch",
+  "price": {
+    "originalPrice": 51,
+    "discountPercentage": 2.56
+  },
+  "rating": 4.89,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3164"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318e"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 142,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3e"
+  },
+  "code": "pc64",
+  "title": "Leather Strap Skeleton Watch",
+  "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+  "slug": "Leather Strap Skeleton Watch",
+  "price": {
+    "originalPrice": 51,
+    "discountPercentage": 10.2
+  },
+  "rating": 4.98,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3165"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318e"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 61,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd3f"
+  },
+  "code": "pc65",
+  "title": "Stainless Steel Wrist Watch",
+  "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
+  "slug": "Stainless Steel Wrist Watch",
+  "price": {
+    "originalPrice": 57,
+    "discountPercentage": 17.79
+  },
+  "rating": 4.79,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3166"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318e"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 94,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd40"
+  },
+  "code": "pc66",
+  "title": "Steel Analog Couple Watches",
+  "description": "Elegant design, Stylish ,Unique & Trendy,Comfortable wear",
+  "slug": "Steel Analog Couple Watches",
+  "price": {
+    "originalPrice": 36,
+    "discountPercentage": 3.23
+  },
+  "rating": 4.79,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3167"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318f"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 24,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd41"
+  },
+  "code": "pc67",
+  "title": "Fashion Magnetic Wrist Watch",
+  "description": "Buy this awesome  The product is originally manufactured by the company and it's a top selling product with a very reasonable",
+  "slug": "Fashion Magnetic Wrist Watch",
+  "price": {
+    "originalPrice": 72,
+    "discountPercentage": 16.69
+  },
+  "rating": 4.03,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3167"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318f"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 46,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd42"
+  },
+  "code": "pc68",
+  "title": "Stylish Luxury Digital Watch",
+  "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
+  "slug": "Stylish Luxury Digital Watch",
+  "price": {
+    "originalPrice": 62,
+    "discountPercentage": 9.03
+  },
+  "rating": 4.55,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3168"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318f"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 77,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd43"
+  },
+  "code": "pc69",
+  "title": "Golden Watch Pearls Bracelet Watch",
+  "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
+  "slug": "Golden Watch Pearls Bracelet Watch",
+  "price": {
+    "originalPrice": 57,
+    "discountPercentage": 17.55
+  },
+  "rating": 4.77,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3169"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318f"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 89,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd44"
+  },
+  "code": "pc70",
+  "title": "Stainless Steel Women",
+  "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies",
+  "slug": "Stainless Steel Women",
+  "price": {
+    "originalPrice": 38,
+    "discountPercentage": 8.98
+  },
+  "rating": 4.08,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d318f"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 111,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd45"
+  },
+  "code": "pc71",
+  "title": "Women Shoulder Bags",
+  "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+  "slug": "Women Shoulder Bags",
+  "price": {
+    "originalPrice": 53,
+    "discountPercentage": 14.65
+  },
+  "rating": 4.71,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3190"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 17,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd46"
+  },
+  "code": "pc72",
+  "title": "Handbag For Girls",
+  "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+  "slug": "Handbag For Girls",
+  "price": {
+    "originalPrice": 27,
+    "discountPercentage": 17.5
+  },
+  "rating": 4.91,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3190"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 27,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca760",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd47"
+  },
+  "code": "pc73",
+  "title": "Fancy hand clutch",
+  "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+  "slug": "Fancy hand clutch",
+  "price": {
+    "originalPrice": 49,
+    "discountPercentage": 10.39
+  },
+  "rating": 4.18,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3190"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 101,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca760",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd48"
+  },
+  "code": "pc74",
+  "title": "Leather Hand Bag",
+  "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
+  "slug": "Leather Hand Bag",
+  "price": {
+    "originalPrice": 64,
+    "discountPercentage": 11.19
+  },
+  "rating": 4.01,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3190"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 43,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd49"
+  },
+  "code": "pc75",
+  "title": "Seven Pocket Women Bag",
+  "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+  "slug": "Seven Pocket Women Bag",
+  "price": {
+    "originalPrice": 79,
+    "discountPercentage": 14.87
+  },
+  "rating": 4.93,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3190"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 13,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4a"
+  },
+  "code": "pc76",
+  "title": "Silver Ring Set Women",
+  "description": "Jewelry Type:RingsCertificate Type:NonePlating:Silver PlatedShapeattern:noneStyle:CLASSICReligious",
+  "slug": "Silver Ring Set Women",
+  "price": {
+    "originalPrice": 80,
+    "discountPercentage": 13.57
+  },
+  "rating": 4.61,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3191"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 51,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca765",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4b"
+  },
+  "code": "pc77",
+  "title": "Rose Ring",
+  "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable",
+  "slug": "Rose Ring",
+  "price": {
+    "originalPrice": 103,
+    "discountPercentage": 3.22
+  },
+  "rating": 4.21,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3191"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 149,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75e",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4c"
+  },
+  "code": "pc78",
+  "title": "Rhinestone Korean Style Open Rings",
+  "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
+  "slug": "Rhinestone Korean Style Open Rings",
+  "price": {
+    "originalPrice": 32,
+    "discountPercentage": 8.02
+  },
+  "rating": 4.69,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3191"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 9,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4d"
+  },
+  "code": "pc79",
+  "title": "Elegant Female Pearl Earrings",
+  "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+  "slug": "Elegant Female Pearl Earrings",
+  "price": {
+    "originalPrice": 34,
+    "discountPercentage": 12.8
+  },
+  "rating": 4.74,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3191"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 16,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4e"
+  },
+  "code": "pc80",
+  "title": "Chain Pin Tassel Earrings",
+  "description": "Pair Of Ear Cuff Butterfly Long Chain Pin Tassel Earrings - Silver ( Long Life Quality Product)",
+  "slug": "Chain Pin Tassel Earrings",
+  "price": {
+    "originalPrice": 54,
+    "discountPercentage": 17.75
+  },
+  "rating": 4.59,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3170"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3191"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 9,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd4f"
+  },
+  "code": "pc81",
+  "title": "Round Silver Frame Sun Glasses",
+  "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+  "slug": "Round Silver Frame Sun Glasses",
+  "price": {
+    "originalPrice": 21,
+    "discountPercentage": 10.1
+  },
+  "rating": 4.94,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3171"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3192"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 78,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75f",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd50"
+  },
+  "code": "pc82",
+  "title": "Kabir Singh Square Sunglass",
+  "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+  "slug": "Kabir Singh Square Sunglass",
+  "price": {
+    "originalPrice": 59,
+    "discountPercentage": 15.6
+  },
+  "rating": 4.62,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3171"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3192"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 78,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd51"
+  },
+  "code": "pc83",
+  "title": "Wiley X Night Vision Yellow Glasses",
+  "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+  "slug": "Wiley X Night Vision Yellow Glasses",
+  "price": {
+    "originalPrice": 32,
+    "discountPercentage": 6.33
+  },
+  "rating": 4.97,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3172"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3192"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 115,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd52"
+  },
+  "code": "pc84",
+  "title": "Square Sunglasses",
+  "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+  "slug": "Square Sunglasses",
+  "price": {
+    "originalPrice": 32,
+    "discountPercentage": 13.89
+  },
+  "rating": 4.64,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3172"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3192"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 64,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca760",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd53"
+  },
+  "code": "pc85",
+  "title": "LouisWill Men Sunglasses",
+  "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+  "slug": "LouisWill Men Sunglasses",
+  "price": {
+    "originalPrice": 56,
+    "discountPercentage": 11.27
+  },
+  "rating": 4.98,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d316b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3192"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 92,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca764",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd54"
+  },
+  "code": "pc86",
+  "title": "Bluetooth Aux",
+  "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+  "slug": "Bluetooth Aux",
+  "price": {
+    "originalPrice": 27,
+    "discountPercentage": 10.56
+  },
+  "rating": 4.57,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3173"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3193"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 22,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca764",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd55"
+  },
+  "code": "pc87",
+  "title": "t Temperature Controller Incubator Controller",
+  "description": "Both Heat and Cool Purpose, Temperature control range; -50 to +110, Temperature measurement accuracy; 0.1, Control accuracy; 0.1",
+  "slug": "t Temperature Controller Incubator Controller",
+  "price": {
+    "originalPrice": 45,
+    "discountPercentage": 11.3
+  },
+  "rating": 4.54,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3174"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3193"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 37,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca762",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd56"
+  },
+  "code": "pc88",
+  "title": "TC Reusable Silicone Magic Washing Gloves",
+  "description": "TC Reusable Silicone Magic Washing Gloves with Scrubber, Cleaning Brush Scrubber Gloves Heat Resistant Pair for Cleaning of Kitchen, Dishes, Vegetables and Fruits, Bathroom, Car Wash, Pet Care and Multipurpose",
+  "slug": "TC Reusable Silicone Magic Washing Gloves",
+  "price": {
+    "originalPrice": 29,
+    "discountPercentage": 3.19
+  },
+  "rating": 4.98,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3175"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3193"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 42,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd57"
+  },
+  "code": "pc89",
+  "title": "Qualcomm original Car Charger",
+  "description": "best Quality CHarger , Highly Recommended to all best Quality CHarger , Highly Recommended to all",
+  "slug": "Qualcomm original Car Charger",
+  "price": {
+    "originalPrice": 48,
+    "discountPercentage": 17.53
+  },
+  "rating": 4.2,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3175"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3193"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 79,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca761",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd58"
+  },
+  "code": "pc90",
+  "title": "Cycle Bike Glow",
+  "description": "Universal fitment and easy to install no special wires, can be easily installed and removed. Fits most standard tyre air stem valves of road, mountain bicycles, motocycles and cars.Bright led will turn on w",
+  "slug": "Cycle Bike Glow",
+  "price": {
+    "originalPrice": 39,
+    "discountPercentage": 11.08
+  },
+  "rating": 4.1,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3176"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3193"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 63,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca762",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd59"
+  },
+  "code": "pc91",
+  "title": "Black Motorbike",
+  "description": "Engine Type:Wet sump, Single Cylinder, Four Stroke, Two Valves, Air Cooled with SOHC (Single Over Head Cam) Chain Drive Bore & Stroke:47.0 x 49.5 MM",
+  "slug": "Black Motorbike",
+  "price": {
+    "originalPrice": 658,
+    "discountPercentage": 13.63
+  },
+  "rating": 4.04,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3177"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3194"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 115,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5a"
+  },
+  "code": "pc92",
+  "title": "HOT SALE IN EUROPE electric racing motorcycle",
+  "description": "HOT SALE IN EUROPE electric racing motorcycle electric motorcycle for sale adult electric motorcycles",
+  "slug": "HOT SALE IN EUROPE electric racing motorcycle",
+  "price": {
+    "originalPrice": 1074,
+    "discountPercentage": 14.4
+  },
+  "rating": 4.19,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3178"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3194"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 22,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca763",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5b"
+  },
+  "code": "pc93",
+  "title": "Automatic Motor Gas Motorcycles",
+  "description": "150cc 4-Stroke Motorcycle Automatic Motor Gas Motorcycles Scooter motorcycles 150cc scooter",
+  "slug": "Automatic Motor Gas Motorcycles",
+  "price": {
+    "originalPrice": 1086,
+    "discountPercentage": 3.34
+  },
+  "rating": 4.84,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d3179"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3194"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 127,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5c"
+  },
+  "code": "pc94",
+  "title": "new arrivals Fashion motocross goggles",
+  "description": "new arrivals Fashion motocross goggles motorcycle motocross racing motorcycle",
+  "slug": "new arrivals Fashion motocross goggles",
+  "price": {
+    "originalPrice": 936,
+    "discountPercentage": 3.85
+  },
+  "rating": 4.06,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317a"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3194"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 109,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5d"
+  },
+  "code": "pc95",
+  "title": "Wholesale cargo lashing Belt",
+  "description": "Wholesale cargo lashing Belt Tie Down end Ratchet strap customized strap 25mm motorcycle 1500kgs with rubber handle",
+  "slug": "Wholesale cargo lashing Belt",
+  "price": {
+    "originalPrice": 1129,
+    "discountPercentage": 17.67
+  },
+  "rating": 4.21,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317b"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3194"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 144,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5e"
+  },
+  "code": "pc96",
+  "title": "lighting ceiling kitchen",
+  "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+  "slug": "lighting ceiling kitchen",
+  "price": {
+    "originalPrice": 35,
+    "discountPercentage": 14.89
+  },
+  "rating": 4.83,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317c"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3195"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 96,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd5f"
+  },
+  "code": "pc97",
+  "title": "Metal Ceramic Flower",
+  "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
+  "slug": "Metal Ceramic Flower",
+  "price": {
+    "originalPrice": 39,
+    "discountPercentage": 10.94
+  },
+  "rating": 4.93,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3195"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 146,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de71bb95d5a33e71c910b",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd60"
+  },
+  "code": "pc98",
+  "title": "3 lights lndenpant kitchen islang",
+  "description": "3 lights lndenpant kitchen islang dining room pendant rice paper chandelier contemporary led pendant light modern chandelier",
+  "slug": "3 lights lndenpant kitchen islang",
+  "price": {
+    "originalPrice": 36,
+    "discountPercentage": 5.92
+  },
+  "rating": 4.99,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317e"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3195"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 44,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75d",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd61"
+  },
+  "code": "pc99",
+  "title": "American Vintage Wood Pendant Light",
+  "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante",
+  "slug": "American Vintage Wood Pendant Light",
+  "price": {
+    "originalPrice": 50,
+    "discountPercentage": 8.84
+  },
+  "rating": 4.32,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317d"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3195"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 138,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca75c",
+  "enabled": true
+},
+{
+  "_id": {
+    "$oid": "676f0c36233fb24c9858bd62"
+  },
+  "code": "pc100",
+  "title": "Crystal chandelier maria theresa for 12 light",
+  "description": "Crystal chandelier maria theresa for 12 light",
+  "slug": "Crystal chandelier maria theresa for 12 light",
+  "price": {
+    "originalPrice": 55,
+    "discountPercentage": 16
+  },
+  "rating": 4.74,
+  "brand": {
+    "$oid": "676db8bc78d1879fc82d317f"
+  },
+  "categories": [
+    {
+      "$oid": "676dbc7178d1879fc82d3195"
+    }
+  ],
+  "gallery": {
+    "main": "/images/defaultbrandimg.jpg",
+    "thumbnails": [
+      "/images/defaultthumbnail.jpg"
+    ]
+  },
+  "stock": {
+    "quantity": 133,
+    "variations": null
+  },
+  "seller": null,
+  "specifications": [
+    {
+      "tag": "Caracteristica 1",
+      "value": "Valor Caracteristica 1"
+    },
+    {
+      "tag": "Caracteristica 2",
+      "value": "Valor Caracteristica 2"
+    }
+  ],
+  "shippingPackageType": "676de7606ab22feea22ca766",
+  "enabled": true
+}]

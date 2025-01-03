@@ -1,0 +1,3502 @@
+[
+  {
+    "code": "pc1",
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "slug": "iPhone 9",
+    "price": {
+      "originalPrice": 630,
+      "currentPrice": 549,
+      "discountPercentage": 12.96
+    },
+    "rating": 4.69,
+    "brand": {
+      "code": "brncode1",
+      "name": "Apple",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod1",
+        "name": "smartphones"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 94,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc2",
+    "title": "iPhone X",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "slug": "iPhone X",
+    "price": {
+      "originalPrice": 1095,
+      "currentPrice": 899,
+      "discountPercentage": 17.94
+    },
+    "rating": 4.44,
+    "brand": {
+      "code": "brncode1",
+      "name": "Apple",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod1",
+        "name": "smartphones"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 34,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc3",
+    "title": "Samsung Universe 9",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "slug": "Samsung Universe 9",
+    "price": {
+      "originalPrice": 1477,
+      "currentPrice": 1249,
+      "discountPercentage": 15.46
+    },
+    "rating": 4.09,
+    "brand": {
+      "code": "brncode2",
+      "name": "Samsung",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod1",
+        "name": "smartphones"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 36,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc4",
+    "title": "OPPOF19",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "slug": "OPPOF19",
+    "price": {
+      "originalPrice": 341,
+      "currentPrice": 280,
+      "discountPercentage": 17.91
+    },
+    "rating": 4.3,
+    "brand": {
+      "code": "brncode3",
+      "name": "OPPO",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod1",
+        "name": "smartphones"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 123,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc5",
+    "title": "Huawei P30",
+    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "slug": "Huawei P30",
+    "price": {
+      "originalPrice": 558,
+      "currentPrice": 499,
+      "discountPercentage": 10.58
+    },
+    "rating": 4.09,
+    "brand": {
+      "code": "brncode4",
+      "name": "Huawei",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod1",
+        "name": "smartphones"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 32,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc6",
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "slug": "MacBook Pro",
+    "price": {
+      "originalPrice": 1965,
+      "currentPrice": 1749,
+      "discountPercentage": 11.02
+    },
+    "rating": 4.57,
+    "brand": {
+      "code": "brncode1",
+      "name": "Apple",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod2",
+        "name": "laptops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 83,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc7",
+    "title": "Samsung Galaxy Book",
+    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "slug": "Samsung Galaxy Book",
+    "price": {
+      "originalPrice": 1563,
+      "currentPrice": 1499,
+      "discountPercentage": 4.15
+    },
+    "rating": 4.25,
+    "brand": {
+      "code": "brncode2",
+      "name": "Samsung",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod2",
+        "name": "laptops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 50,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc8",
+    "title": "Microsoft Surface Laptop 4",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "slug": "Microsoft Surface Laptop 4",
+    "price": {
+      "originalPrice": 1669,
+      "currentPrice": 1499,
+      "discountPercentage": 10.23
+    },
+    "rating": 4.43,
+    "brand": {
+      "code": "brncode5",
+      "name": "Microsoft Surface",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod2",
+        "name": "laptops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 68,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc9",
+    "title": "Infinix INBOOK",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "slug": "Infinix INBOOK",
+    "price": {
+      "originalPrice": 1246,
+      "currentPrice": 1099,
+      "discountPercentage": 11.83
+    },
+    "rating": 4.54,
+    "brand": {
+      "code": "brncode6",
+      "name": "Infinix",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod2",
+        "name": "laptops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 96,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc10",
+    "title": "HP Pavilion 15-DK1056WM",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "slug": "HP Pavilion 15-DK1056WM",
+    "price": {
+      "originalPrice": 1171,
+      "currentPrice": 1099,
+      "discountPercentage": 6.18
+    },
+    "rating": 4.43,
+    "brand": {
+      "code": "brncode7",
+      "name": "HP Pavilion",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod2",
+        "name": "laptops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 89,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc11",
+    "title": "perfume Oil",
+    "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+    "slug": "perfume Oil",
+    "price": {
+      "originalPrice": 14,
+      "currentPrice": 13,
+      "discountPercentage": 8.4
+    },
+    "rating": 4.26,
+    "brand": {
+      "code": "brncode8",
+      "name": "Impression of Acqua Di Gio",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod3",
+        "name": "fragrances"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 65,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc12",
+    "title": "Brown Perfume",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "slug": "Brown Perfume",
+    "price": {
+      "originalPrice": 47,
+      "currentPrice": 40,
+      "discountPercentage": 15.66
+    },
+    "rating": 4,
+    "brand": {
+      "code": "brncode9",
+      "name": "Royal_Mirage",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod3",
+        "name": "fragrances"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 52,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc13",
+    "title": "Fog Scent Xpressio Perfume",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+    "slug": "Fog Scent Xpressio Perfume",
+    "price": {
+      "originalPrice": 14,
+      "currentPrice": 13,
+      "discountPercentage": 8.14
+    },
+    "rating": 4.59,
+    "brand": {
+      "code": "brncode10",
+      "name": "Fog Scent Xpressio",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod3",
+        "name": "fragrances"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 61,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc14",
+    "title": "Non-Alcoholic Concentrated Perfume Oil",
+    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "slug": "Non-Alcoholic Concentrated Perfume Oil",
+    "price": {
+      "originalPrice": 142,
+      "currentPrice": 120,
+      "discountPercentage": 15.6
+    },
+    "rating": 4.21,
+    "brand": {
+      "code": "brncode11",
+      "name": "Al Munakh",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod3",
+        "name": "fragrances"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 114,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc15",
+    "title": "Eau De Perfume Spray",
+    "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "slug": "Eau De Perfume Spray",
+    "price": {
+      "originalPrice": 33,
+      "currentPrice": 30,
+      "discountPercentage": 10.99
+    },
+    "rating": 4.7,
+    "brand": {
+      "code": "brncode12",
+      "name": "Lord - Al-Rehab",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod3",
+        "name": "fragrances"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 105,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc16",
+    "title": "Hyaluronic Acid Serum",
+    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "slug": "Hyaluronic Acid Serum",
+    "price": {
+      "originalPrice": 21,
+      "currentPrice": 19,
+      "discountPercentage": 13.31
+    },
+    "rating": 4.83,
+    "brand": {
+      "code": "brncode13",
+      "name": "L'Oreal Paris",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod4",
+        "name": "skincare"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 110,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc17",
+    "title": "Tree Oil 30ml",
+    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+    "slug": "Tree Oil 30ml",
+    "price": {
+      "originalPrice": 12,
+      "currentPrice": 12,
+      "discountPercentage": 4.09
+    },
+    "rating": 4.52,
+    "brand": {
+      "code": "brncode14",
+      "name": "Hemani Tea",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod4",
+        "name": "skincare"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 78,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc18",
+    "title": "Oil Free Moisturizer 100ml",
+    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "slug": "Oil Free Moisturizer 100ml",
+    "price": {
+      "originalPrice": 46,
+      "currentPrice": 40,
+      "discountPercentage": 13.1
+    },
+    "rating": 4.56,
+    "brand": {
+      "code": "brncode15",
+      "name": "Dermive",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod4",
+        "name": "skincare"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 88,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc19",
+    "title": "Skin Beauty Serum.",
+    "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+    "slug": "Skin Beauty Serum.",
+    "price": {
+      "originalPrice": 51,
+      "currentPrice": 46,
+      "discountPercentage": 10.68
+    },
+    "rating": 4.42,
+    "brand": {
+      "code": "brncode16",
+      "name": "ROREC White Rice",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod4",
+        "name": "skincare"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 54,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc20",
+    "title": "Freckle Treatment Cream- 15gm",
+    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
+    "slug": "Freckle Treatment Cream- 15gm",
+    "price": {
+      "originalPrice": 84,
+      "currentPrice": 70,
+      "discountPercentage": 16.99
+    },
+    "rating": 4.06,
+    "brand": {
+      "code": "brncode17",
+      "name": "Fair & Clear",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod4",
+        "name": "skincare"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 140,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc21",
+    "title": "- Daal Masoor 500 grams",
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "slug": "- Daal Masoor 500 grams",
+    "price": {
+      "originalPrice": 21,
+      "currentPrice": 20,
+      "discountPercentage": 4.81
+    },
+    "rating": 4.44,
+    "brand": {
+      "code": "brncode18",
+      "name": "Saaf & Khaas",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod5",
+        "name": "groceries"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 133,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc22",
+    "title": "Elbow Macaroni - 400 gm",
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "slug": "Elbow Macaroni - 400 gm",
+    "price": {
+      "originalPrice": 16,
+      "currentPrice": 14,
+      "discountPercentage": 15.58
+    },
+    "rating": 4.57,
+    "brand": {
+      "code": "brncode19",
+      "name": "Bake Parlor Big",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod5",
+        "name": "groceries"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 146,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc23",
+    "title": "Orange Essence Food Flavou",
+    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+    "slug": "Orange Essence Food Flavou",
+    "price": {
+      "originalPrice": 15,
+      "currentPrice": 14,
+      "discountPercentage": 8.04
+    },
+    "rating": 4.85,
+    "brand": {
+      "code": "brncode20",
+      "name": "Baking Food Items",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod5",
+        "name": "groceries"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 26,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc24",
+    "title": "cereals muesli fruit nuts",
+    "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
+    "slug": "cereals muesli fruit nuts",
+    "price": {
+      "originalPrice": 55,
+      "currentPrice": 46,
+      "discountPercentage": 16.8
+    },
+    "rating": 4.94,
+    "brand": {
+      "code": "brncode21",
+      "name": "fauji",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod5",
+        "name": "groceries"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 113,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc25",
+    "title": "Gulab Powder 50 Gram",
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "slug": "Gulab Powder 50 Gram",
+    "price": {
+      "originalPrice": 80,
+      "currentPrice": 70,
+      "discountPercentage": 13.58
+    },
+    "rating": 4.87,
+    "brand": {
+      "code": "brncode22",
+      "name": "Dry Rose",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod5",
+        "name": "groceries"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 47,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc26",
+    "title": "Plant Hanger For Home",
+    "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+    "slug": "Plant Hanger For Home",
+    "price": {
+      "originalPrice": 49,
+      "currentPrice": 41,
+      "discountPercentage": 17.86
+    },
+    "rating": 4.08,
+    "brand": {
+      "code": "brncode23",
+      "name": "Boho Decor",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod6",
+        "name": "home-decoration"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 131,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc27",
+    "title": "Flying Wooden Bird",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "slug": "Flying Wooden Bird",
+    "price": {
+      "originalPrice": 60,
+      "currentPrice": 51,
+      "discountPercentage": 15.58
+    },
+    "rating": 4.41,
+    "brand": {
+      "code": "brncode24",
+      "name": "Flying Wooden",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod6",
+        "name": "home-decoration"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 17,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc28",
+    "title": "3D Embellishment Art Lamp",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "slug": "3D Embellishment Art Lamp",
+    "price": {
+      "originalPrice": 23,
+      "currentPrice": 20,
+      "discountPercentage": 16.49
+    },
+    "rating": 4.82,
+    "brand": {
+      "code": "brncode25",
+      "name": "LED Lights",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod6",
+        "name": "home-decoration"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 54,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc29",
+    "title": "Handcraft Chinese style",
+    "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+    "slug": "Handcraft Chinese style",
+    "price": {
+      "originalPrice": 70,
+      "currentPrice": 60,
+      "discountPercentage": 15.34
+    },
+    "rating": 4.44,
+    "brand": {
+      "code": "brncode26",
+      "name": "luxury palace",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod6",
+        "name": "home-decoration"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 7,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc30",
+    "title": "Key Holder",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "slug": "Key Holder",
+    "price": {
+      "originalPrice": 30,
+      "currentPrice": 30,
+      "discountPercentage": 2.92
+    },
+    "rating": 4.92,
+    "brand": {
+      "code": "brncode27",
+      "name": "Golden",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod6",
+        "name": "home-decoration"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 54,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc31",
+    "title": "Mornadi Velvet Bed",
+    "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+    "slug": "Mornadi Velvet Bed",
+    "price": {
+      "originalPrice": 48,
+      "currentPrice": 40,
+      "discountPercentage": 17
+    },
+    "rating": 4.16,
+    "brand": {
+      "code": "brncode28",
+      "name": "Furniture Bed Set",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod7",
+        "name": "furniture"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 140,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc32",
+    "title": "Sofa for Coffe Cafe",
+    "description": "Ratttan Outdoor furniture Set Waterproof  Rattan Sofa for Coffe Cafe",
+    "slug": "Sofa for Coffe Cafe",
+    "price": {
+      "originalPrice": 59,
+      "currentPrice": 50,
+      "discountPercentage": 15.59
+    },
+    "rating": 4.74,
+    "brand": {
+      "code": "brncode29",
+      "name": "Ratttan Outdoor",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod7",
+        "name": "furniture"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 30,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc33",
+    "title": "3 Tier Corner Shelves",
+    "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+    "slug": "3 Tier Corner Shelves",
+    "price": {
+      "originalPrice": 843,
+      "currentPrice": 700,
+      "discountPercentage": 17
+    },
+    "rating": 4.31,
+    "brand": {
+      "code": "brncode30",
+      "name": "Kitchen Shelf",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod7",
+        "name": "furniture"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 106,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc34",
+    "title": "Plastic Table",
+    "description": "V﻿ery good quality plastic table for multi purpose now in reasonable price",
+    "slug": "Plastic Table",
+    "price": {
+      "originalPrice": 52,
+      "currentPrice": 50,
+      "discountPercentage": 4
+    },
+    "rating": 4.01,
+    "brand": {
+      "code": "brncode31",
+      "name": "Multi Purpose",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod7",
+        "name": "furniture"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 136,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc35",
+    "title": "3 DOOR PORTABLE",
+    "description": "Material: Stainless Steel and Fabric  Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+    "slug": "3 DOOR PORTABLE",
+    "price": {
+      "originalPrice": 44,
+      "currentPrice": 41,
+      "discountPercentage": 7.98
+    },
+    "rating": 4.06,
+    "brand": {
+      "code": "brncode32",
+      "name": "AmnaMart",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod7",
+        "name": "furniture"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 68,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc36",
+    "title": "Sleeve Shirt Womens",
+    "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+    "slug": "Sleeve Shirt Womens",
+    "price": {
+      "originalPrice": 100,
+      "currentPrice": 90,
+      "discountPercentage": 10.89
+    },
+    "rating": 4.26,
+    "brand": {
+      "code": "brncode33",
+      "name": "Professional Wear",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod8",
+        "name": "tops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 39,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc37",
+    "title": "ank Tops for Womens/Girls",
+    "description": "PACK OF 3 CAMISOLES ,VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS",
+    "slug": "ank Tops for Womens/Girls",
+    "price": {
+      "originalPrice": 56,
+      "currentPrice": 50,
+      "discountPercentage": 12.05
+    },
+    "rating": 4.52,
+    "brand": {
+      "code": "brncode34",
+      "name": "Soft Cotton",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod8",
+        "name": "tops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 107,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc38",
+    "title": "sublimation plain kids tank",
+    "description": "sublimation plain kids tank tops wholesale",
+    "slug": "sublimation plain kids tank",
+    "price": {
+      "originalPrice": 112,
+      "currentPrice": 100,
+      "discountPercentage": 11.12
+    },
+    "rating": 4.8,
+    "brand": {
+      "code": "brncode34",
+      "name": "Soft Cotton",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod8",
+        "name": "tops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 20,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc39",
+    "title": "Women Sweaters Wool",
+    "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women' S Crop Top Sweater",
+    "slug": "Women Sweaters Wool",
+    "price": {
+      "originalPrice": 724,
+      "currentPrice": 600,
+      "discountPercentage": 17.2
+    },
+    "rating": 4.55,
+    "brand": {
+      "code": "brncode35",
+      "name": "Top Sweater",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod8",
+        "name": "tops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 55,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc40",
+    "title": "women winter clothes",
+    "description": "women winter clothes thick fleece hoodie top with sweat pantjogger women sweatsuit set joggers pants two piece pants set",
+    "slug": "women winter clothes",
+    "price": {
+      "originalPrice": 65,
+      "currentPrice": 57,
+      "discountPercentage": 13.39
+    },
+    "rating": 4.91,
+    "brand": {
+      "code": "brncode35",
+      "name": "Top Sweater",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod8",
+        "name": "tops"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 84,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc41",
+    "title": "NIGHT SUIT",
+    "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+    "slug": "NIGHT SUIT",
+    "price": {
+      "originalPrice": 64,
+      "currentPrice": 55,
+      "discountPercentage": 15.05
+    },
+    "rating": 4.65,
+    "brand": {
+      "code": "brncode36",
+      "name": "RED MICKY MOUSE..",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod9",
+        "name": "womens-dresses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 21,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc42",
+    "title": "Stiched Kurta plus trouser",
+    "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+    "slug": "Stiched Kurta plus trouser",
+    "price": {
+      "originalPrice": 94,
+      "currentPrice": 80,
+      "discountPercentage": 15.37
+    },
+    "rating": 4.05,
+    "brand": {
+      "code": "brncode37",
+      "name": "Digital Printed",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod9",
+        "name": "womens-dresses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 148,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc43",
+    "title": "frock gold printed",
+    "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+    "slug": "frock gold printed",
+    "price": {
+      "originalPrice": 710,
+      "currentPrice": 600,
+      "discountPercentage": 15.55
+    },
+    "rating": 4.31,
+    "brand": {
+      "code": "brncode38",
+      "name": "Ghazi Fabric",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod9",
+        "name": "womens-dresses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 150,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc44",
+    "title": "Ladies Multicolored Dress",
+    "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+    "slug": "Ladies Multicolored Dress",
+    "price": {
+      "originalPrice": 95,
+      "currentPrice": 79,
+      "discountPercentage": 16.88
+    },
+    "rating": 4.03,
+    "brand": {
+      "code": "brncode38",
+      "name": "Ghazi Fabric",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod9",
+        "name": "womens-dresses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 2,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc45",
+    "title": "Malai Maxi Dress",
+    "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+    "slug": "Malai Maxi Dress",
+    "price": {
+      "originalPrice": 52,
+      "currentPrice": 50,
+      "discountPercentage": 5.07
+    },
+    "rating": 4.67,
+    "brand": {
+      "code": "brncode39",
+      "name": "IELGY",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod9",
+        "name": "womens-dresses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 96,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc46",
+    "title": "women's shoes",
+    "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
+    "slug": "women's shoes",
+    "price": {
+      "originalPrice": 48,
+      "currentPrice": 40,
+      "discountPercentage": 16.96
+    },
+    "rating": 4.14,
+    "brand": {
+      "code": "brncode40",
+      "name": "IELGY fashion",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod10",
+        "name": "womens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 72,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc47",
+    "title": "Sneaker shoes",
+    "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
+    "slug": "Sneaker shoes",
+    "price": {
+      "originalPrice": 133,
+      "currentPrice": 120,
+      "discountPercentage": 10.37
+    },
+    "rating": 4.19,
+    "brand": {
+      "code": "brncode41",
+      "name": "Synthetic Leather",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod10",
+        "name": "womens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 50,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc48",
+    "title": "Women Strip Heel",
+    "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+    "slug": "Women Strip Heel",
+    "price": {
+      "originalPrice": 44,
+      "currentPrice": 40,
+      "discountPercentage": 10.83
+    },
+    "rating": 4.02,
+    "brand": {
+      "code": "brncode42",
+      "name": "Sandals Flip Flops",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod10",
+        "name": "womens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 25,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc49",
+    "title": "Chappals & Shoe Ladies Metallic",
+    "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+    "slug": "Chappals & Shoe Ladies Metallic",
+    "price": {
+      "originalPrice": 23,
+      "currentPrice": 23,
+      "discountPercentage": 2.62
+    },
+    "rating": 4.72,
+    "brand": {
+      "code": "brncode43",
+      "name": "Maasai Sandals",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod10",
+        "name": "womens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 107,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc50",
+    "title": "Women Shoes",
+    "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+    "slug": "Women Shoes",
+    "price": {
+      "originalPrice": 43,
+      "currentPrice": 36,
+      "discountPercentage": 16.87
+    },
+    "rating": 4.33,
+    "brand": {
+      "code": "brncode44",
+      "name": "Arrivals Genuine",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod10",
+        "name": "womens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 46,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc51",
+    "title": "half sleeves T shirts",
+    "description": "Many store is creating new designs and trend every month and every year. Daraz.pk have a beautiful range of men fashion brands",
+    "slug": "half sleeves T shirts",
+    "price": {
+      "originalPrice": 26,
+      "currentPrice": 23,
+      "discountPercentage": 12.76
+    },
+    "rating": 4.26,
+    "brand": {
+      "code": "brncode45",
+      "name": "Vintage Apparel",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod11",
+        "name": "mens-shirts"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 132,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc52",
+    "title": "FREE FIRE T Shirt",
+    "description": "quality and professional print - It doesn't just look high quality, it is high quality.",
+    "slug": "FREE FIRE T Shirt",
+    "price": {
+      "originalPrice": 11,
+      "currentPrice": 10,
+      "discountPercentage": 14.72
+    },
+    "rating": 4.52,
+    "brand": {
+      "code": "brncode46",
+      "name": "FREE FIRE",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod11",
+        "name": "mens-shirts"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 128,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc53",
+    "title": "printed high quality T shirts",
+    "description": "Brand: vintage Apparel ,Export quality",
+    "slug": "printed high quality T shirts",
+    "price": {
+      "originalPrice": 37,
+      "currentPrice": 35,
+      "discountPercentage": 7.54
+    },
+    "rating": 4.89,
+    "brand": {
+      "code": "brncode45",
+      "name": "Vintage Apparel",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod11",
+        "name": "mens-shirts"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 6,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc54",
+    "title": "Pubg Printed Graphic T-Shirt",
+    "description": "Product Description Features: 100% Ultra soft Polyester Jersey. Vibrant & colorful printing on front. Feels soft as cotton without ever cracking",
+    "slug": "Pubg Printed Graphic T-Shirt",
+    "price": {
+      "originalPrice": 55,
+      "currentPrice": 46,
+      "discountPercentage": 16.44
+    },
+    "rating": 4.62,
+    "brand": {
+      "code": "brncode47",
+      "name": "The Warehouse",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod11",
+        "name": "mens-shirts"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 136,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc55",
+    "title": "Money Heist Printed Summer T Shirts",
+    "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched",
+    "slug": "Money Heist Printed Summer T Shirts",
+    "price": {
+      "originalPrice": 78,
+      "currentPrice": 66,
+      "discountPercentage": 15.97
+    },
+    "rating": 4.9,
+    "brand": {
+      "code": "brncode47",
+      "name": "The Warehouse",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod11",
+        "name": "mens-shirts"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 122,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc56",
+    "title": "Sneakers Joggers Shoes",
+    "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+    "slug": "Sneakers Joggers Shoes",
+    "price": {
+      "originalPrice": 45,
+      "currentPrice": 40,
+      "discountPercentage": 12.57
+    },
+    "rating": 4.38,
+    "brand": {
+      "code": "brncode48",
+      "name": "Sneakers",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod12",
+        "name": "mens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 6,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc57",
+    "title": "Loafers for men",
+    "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+    "slug": "Loafers for men",
+    "price": {
+      "originalPrice": 52,
+      "currentPrice": 47,
+      "discountPercentage": 10.91
+    },
+    "rating": 4.91,
+    "brand": {
+      "code": "brncode49",
+      "name": "Rubber",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod12",
+        "name": "mens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 20,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc58",
+    "title": "formal offices shoes",
+    "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+    "slug": "formal offices shoes",
+    "price": {
+      "originalPrice": 64,
+      "currentPrice": 57,
+      "discountPercentage": 12
+    },
+    "rating": 4.41,
+    "brand": {
+      "code": "brncode47",
+      "name": "The Warehouse",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod12",
+        "name": "mens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 68,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc59",
+    "title": "Spring and summershoes",
+    "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+    "slug": "Spring and summershoes",
+    "price": {
+      "originalPrice": 21,
+      "currentPrice": 20,
+      "discountPercentage": 8.71
+    },
+    "rating": 4.33,
+    "brand": {
+      "code": "brncode48",
+      "name": "Sneakers",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod12",
+        "name": "mens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 137,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc60",
+    "title": "Stylish Casual Jeans Shoes",
+    "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+    "slug": "Stylish Casual Jeans Shoes",
+    "price": {
+      "originalPrice": 62,
+      "currentPrice": 58,
+      "discountPercentage": 7.55
+    },
+    "rating": 4.55,
+    "brand": {
+      "code": "brncode48",
+      "name": "Sneakers",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod12",
+        "name": "mens-shoes"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 129,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc61",
+    "title": "Leather Straps Wristwatch",
+    "description": "Style:Sport ,Clasp:Buckles ,Water Resistance Depth:3Bar",
+    "slug": "Leather Straps Wristwatch",
+    "price": {
+      "originalPrice": 129,
+      "currentPrice": 120,
+      "discountPercentage": 7.14
+    },
+    "rating": 4.63,
+    "brand": {
+      "code": "brncode50",
+      "name": "Naviforce",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod13",
+        "name": "mens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 91,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc62",
+    "title": "Waterproof Leather Brand Watch",
+    "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
+    "slug": "Waterproof Leather Brand Watch",
+    "price": {
+      "originalPrice": 47,
+      "currentPrice": 46,
+      "discountPercentage": 3.15
+    },
+    "rating": 4.05,
+    "brand": {
+      "code": "brncode51",
+      "name": "SKMEI 9117",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod13",
+        "name": "mens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 95,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc63",
+    "title": "Royal Blue Premium Watch",
+    "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch",
+    "slug": "Royal Blue Premium Watch",
+    "price": {
+      "originalPrice": 51,
+      "currentPrice": 50,
+      "discountPercentage": 2.56
+    },
+    "rating": 4.89,
+    "brand": {
+      "code": "brncode51",
+      "name": "SKMEI 9117",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod13",
+        "name": "mens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 142,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc64",
+    "title": "Leather Strap Skeleton Watch",
+    "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+    "slug": "Leather Strap Skeleton Watch",
+    "price": {
+      "originalPrice": 51,
+      "currentPrice": 46,
+      "discountPercentage": 10.2
+    },
+    "rating": 4.98,
+    "brand": {
+      "code": "brncode52",
+      "name": "Strap Skeleton",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod13",
+        "name": "mens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 61,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc65",
+    "title": "Stainless Steel Wrist Watch",
+    "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
+    "slug": "Stainless Steel Wrist Watch",
+    "price": {
+      "originalPrice": 57,
+      "currentPrice": 47,
+      "discountPercentage": 17.79
+    },
+    "rating": 4.79,
+    "brand": {
+      "code": "brncode53",
+      "name": "Stainless",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod13",
+        "name": "mens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 94,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc66",
+    "title": "Steel Analog Couple Watches",
+    "description": "Elegant design, Stylish ,Unique & Trendy,Comfortable wear",
+    "slug": "Steel Analog Couple Watches",
+    "price": {
+      "originalPrice": 36,
+      "currentPrice": 35,
+      "discountPercentage": 3.23
+    },
+    "rating": 4.79,
+    "brand": {
+      "code": "brncode54",
+      "name": "Eastern Watches",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod14",
+        "name": "womens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 24,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc67",
+    "title": "Fashion Magnetic Wrist Watch",
+    "description": "Buy this awesome  The product is originally manufactured by the company and it's a top selling product with a very reasonable",
+    "slug": "Fashion Magnetic Wrist Watch",
+    "price": {
+      "originalPrice": 72,
+      "currentPrice": 60,
+      "discountPercentage": 16.69
+    },
+    "rating": 4.03,
+    "brand": {
+      "code": "brncode54",
+      "name": "Eastern Watches",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod14",
+        "name": "womens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 46,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc68",
+    "title": "Stylish Luxury Digital Watch",
+    "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
+    "slug": "Stylish Luxury Digital Watch",
+    "price": {
+      "originalPrice": 62,
+      "currentPrice": 57,
+      "discountPercentage": 9.03
+    },
+    "rating": 4.55,
+    "brand": {
+      "code": "brncode55",
+      "name": "Luxury Digital",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod14",
+        "name": "womens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 77,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc69",
+    "title": "Golden Watch Pearls Bracelet Watch",
+    "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
+    "slug": "Golden Watch Pearls Bracelet Watch",
+    "price": {
+      "originalPrice": 57,
+      "currentPrice": 47,
+      "discountPercentage": 17.55
+    },
+    "rating": 4.77,
+    "brand": {
+      "code": "brncode56",
+      "name": "Watch Pearls",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod14",
+        "name": "womens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 89,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc70",
+    "title": "Stainless Steel Women",
+    "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies",
+    "slug": "Stainless Steel Women",
+    "price": {
+      "originalPrice": 38,
+      "currentPrice": 35,
+      "discountPercentage": 8.98
+    },
+    "rating": 4.08,
+    "brand": {
+      "code": "brncode57",
+      "name": "Bracelet",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod14",
+        "name": "womens-watches"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 111,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc71",
+    "title": "Women Shoulder Bags",
+    "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+    "slug": "Women Shoulder Bags",
+    "price": {
+      "originalPrice": 53,
+      "currentPrice": 46,
+      "discountPercentage": 14.65
+    },
+    "rating": 4.71,
+    "brand": {
+      "code": "brncode58",
+      "name": "LouisWill",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod15",
+        "name": "womens-bags"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 17,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc72",
+    "title": "Handbag For Girls",
+    "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+    "slug": "Handbag For Girls",
+    "price": {
+      "originalPrice": 27,
+      "currentPrice": 23,
+      "discountPercentage": 17.5
+    },
+    "rating": 4.91,
+    "brand": {
+      "code": "brncode58",
+      "name": "LouisWill",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod15",
+        "name": "womens-bags"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 27,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc73",
+    "title": "Fancy hand clutch",
+    "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+    "slug": "Fancy hand clutch",
+    "price": {
+      "originalPrice": 49,
+      "currentPrice": 44,
+      "discountPercentage": 10.39
+    },
+    "rating": 4.18,
+    "brand": {
+      "code": "brncode57",
+      "name": "Bracelet",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod15",
+        "name": "womens-bags"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 101,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc74",
+    "title": "Leather Hand Bag",
+    "description": "It features an attractive design that makes it a must have accessory in your collection. We sell different kind of bags for boys, kids, women, girls and also for unisex.",
+    "slug": "Leather Hand Bag",
+    "price": {
+      "originalPrice": 64,
+      "currentPrice": 57,
+      "discountPercentage": 11.19
+    },
+    "rating": 4.01,
+    "brand": {
+      "code": "brncode59",
+      "name": "Copenhagen Luxe",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod15",
+        "name": "womens-bags"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 43,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc75",
+    "title": "Seven Pocket Women Bag",
+    "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+    "slug": "Seven Pocket Women Bag",
+    "price": {
+      "originalPrice": 79,
+      "currentPrice": 68,
+      "discountPercentage": 14.87
+    },
+    "rating": 4.93,
+    "brand": {
+      "code": "brncode60",
+      "name": "Steal Frame",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod15",
+        "name": "womens-bags"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 13,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc76",
+    "title": "Silver Ring Set Women",
+    "description": "Jewelry Type:RingsCertificate Type:NonePlating:Silver PlatedShapeattern:noneStyle:CLASSICReligious",
+    "slug": "Silver Ring Set Women",
+    "price": {
+      "originalPrice": 80,
+      "currentPrice": 70,
+      "discountPercentage": 13.57
+    },
+    "rating": 4.61,
+    "brand": {
+      "code": "brncode61",
+      "name": "Darojay",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod16",
+        "name": "womens-jewellery"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 51,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc77",
+    "title": "Rose Ring",
+    "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable",
+    "slug": "Rose Ring",
+    "price": {
+      "originalPrice": 103,
+      "currentPrice": 100,
+      "discountPercentage": 3.22
+    },
+    "rating": 4.21,
+    "brand": {
+      "code": "brncode59",
+      "name": "Copenhagen Luxe",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod16",
+        "name": "womens-jewellery"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 149,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc78",
+    "title": "Rhinestone Korean Style Open Rings",
+    "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
+    "slug": "Rhinestone Korean Style Open Rings",
+    "price": {
+      "originalPrice": 32,
+      "currentPrice": 30,
+      "discountPercentage": 8.02
+    },
+    "rating": 4.69,
+    "brand": {
+      "code": "brncode62",
+      "name": "Fashion Jewellery",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod16",
+        "name": "womens-jewellery"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 9,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc79",
+    "title": "Elegant Female Pearl Earrings",
+    "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+    "slug": "Elegant Female Pearl Earrings",
+    "price": {
+      "originalPrice": 34,
+      "currentPrice": 30,
+      "discountPercentage": 12.8
+    },
+    "rating": 4.74,
+    "brand": {
+      "code": "brncode62",
+      "name": "Fashion Jewellery",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod16",
+        "name": "womens-jewellery"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 16,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc80",
+    "title": "Chain Pin Tassel Earrings",
+    "description": "Pair Of Ear Cuff Butterfly Long Chain Pin Tassel Earrings - Silver ( Long Life Quality Product)",
+    "slug": "Chain Pin Tassel Earrings",
+    "price": {
+      "originalPrice": 54,
+      "currentPrice": 45,
+      "discountPercentage": 17.75
+    },
+    "rating": 4.59,
+    "brand": {
+      "code": "brncode63",
+      "name": "Cuff Butterfly",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod16",
+        "name": "womens-jewellery"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 9,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc81",
+    "title": "Round Silver Frame Sun Glasses",
+    "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+    "slug": "Round Silver Frame Sun Glasses",
+    "price": {
+      "originalPrice": 21,
+      "currentPrice": 19,
+      "discountPercentage": 10.1
+    },
+    "rating": 4.94,
+    "brand": {
+      "code": "brncode64",
+      "name": "Designer Sun Glasses",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod17",
+        "name": "sunglasses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 78,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc82",
+    "title": "Kabir Singh Square Sunglass",
+    "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+    "slug": "Kabir Singh Square Sunglass",
+    "price": {
+      "originalPrice": 59,
+      "currentPrice": 50,
+      "discountPercentage": 15.6
+    },
+    "rating": 4.62,
+    "brand": {
+      "code": "brncode64",
+      "name": "Designer Sun Glasses",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod17",
+        "name": "sunglasses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 78,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc83",
+    "title": "Wiley X Night Vision Yellow Glasses",
+    "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+    "slug": "Wiley X Night Vision Yellow Glasses",
+    "price": {
+      "originalPrice": 32,
+      "currentPrice": 30,
+      "discountPercentage": 6.33
+    },
+    "rating": 4.97,
+    "brand": {
+      "code": "brncode65",
+      "name": "mastar watch",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod17",
+        "name": "sunglasses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 115,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc84",
+    "title": "Square Sunglasses",
+    "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+    "slug": "Square Sunglasses",
+    "price": {
+      "originalPrice": 32,
+      "currentPrice": 28,
+      "discountPercentage": 13.89
+    },
+    "rating": 4.64,
+    "brand": {
+      "code": "brncode65",
+      "name": "mastar watch",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod17",
+        "name": "sunglasses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 64,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc85",
+    "title": "LouisWill Men Sunglasses",
+    "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+    "slug": "LouisWill Men Sunglasses",
+    "price": {
+      "originalPrice": 56,
+      "currentPrice": 50,
+      "discountPercentage": 11.27
+    },
+    "rating": 4.98,
+    "brand": {
+      "code": "brncode58",
+      "name": "LouisWill",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod17",
+        "name": "sunglasses"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 92,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc86",
+    "title": "Bluetooth Aux",
+    "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+    "slug": "Bluetooth Aux",
+    "price": {
+      "originalPrice": 27,
+      "currentPrice": 25,
+      "discountPercentage": 10.56
+    },
+    "rating": 4.57,
+    "brand": {
+      "code": "brncode66",
+      "name": "Car Aux",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod18",
+        "name": "automotive"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 22,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc87",
+    "title": "t Temperature Controller Incubator Controller",
+    "description": "Both Heat and Cool Purpose, Temperature control range; -50 to +110, Temperature measurement accuracy; 0.1, Control accuracy; 0.1",
+    "slug": "t Temperature Controller Incubator Controller",
+    "price": {
+      "originalPrice": 45,
+      "currentPrice": 40,
+      "discountPercentage": 11.3
+    },
+    "rating": 4.54,
+    "brand": {
+      "code": "brncode67",
+      "name": "W1209 DC12V",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod18",
+        "name": "automotive"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 37,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc88",
+    "title": "TC Reusable Silicone Magic Washing Gloves",
+    "description": "TC Reusable Silicone Magic Washing Gloves with Scrubber, Cleaning Brush Scrubber Gloves Heat Resistant Pair for Cleaning of Kitchen, Dishes, Vegetables and Fruits, Bathroom, Car Wash, Pet Care and Multipurpose",
+    "slug": "TC Reusable Silicone Magic Washing Gloves",
+    "price": {
+      "originalPrice": 29,
+      "currentPrice": 29,
+      "discountPercentage": 3.19
+    },
+    "rating": 4.98,
+    "brand": {
+      "code": "brncode68",
+      "name": "TC Reusable",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod18",
+        "name": "automotive"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 42,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc89",
+    "title": "Qualcomm original Car Charger",
+    "description": "best Quality CHarger , Highly Recommended to all best Quality CHarger , Highly Recommended to all",
+    "slug": "Qualcomm original Car Charger",
+    "price": {
+      "originalPrice": 48,
+      "currentPrice": 40,
+      "discountPercentage": 17.53
+    },
+    "rating": 4.2,
+    "brand": {
+      "code": "brncode68",
+      "name": "TC Reusable",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod18",
+        "name": "automotive"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 79,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc90",
+    "title": "Cycle Bike Glow",
+    "description": "Universal fitment and easy to install no special wires, can be easily installed and removed. Fits most standard tyre air stem valves of road, mountain bicycles, motocycles and cars.Bright led will turn on w",
+    "slug": "Cycle Bike Glow",
+    "price": {
+      "originalPrice": 39,
+      "currentPrice": 35,
+      "discountPercentage": 11.08
+    },
+    "rating": 4.1,
+    "brand": {
+      "code": "brncode69",
+      "name": "Neon LED Light",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod18",
+        "name": "automotive"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 63,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc91",
+    "title": "Black Motorbike",
+    "description": "Engine Type:Wet sump, Single Cylinder, Four Stroke, Two Valves, Air Cooled with SOHC (Single Over Head Cam) Chain Drive Bore & Stroke:47.0 x 49.5 MM",
+    "slug": "Black Motorbike",
+    "price": {
+      "originalPrice": 658,
+      "currentPrice": 569,
+      "discountPercentage": 13.63
+    },
+    "rating": 4.04,
+    "brand": {
+      "code": "brncode70",
+      "name": "METRO 70cc Motorcycle - MR70",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod19",
+        "name": "motorcycle"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 115,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc92",
+    "title": "HOT SALE IN EUROPE electric racing motorcycle",
+    "description": "HOT SALE IN EUROPE electric racing motorcycle electric motorcycle for sale adult electric motorcycles",
+    "slug": "HOT SALE IN EUROPE electric racing motorcycle",
+    "price": {
+      "originalPrice": 1074,
+      "currentPrice": 920,
+      "discountPercentage": 14.4
+    },
+    "rating": 4.19,
+    "brand": {
+      "code": "brncode71",
+      "name": "BRAVE BULL",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod19",
+        "name": "motorcycle"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 22,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc93",
+    "title": "Automatic Motor Gas Motorcycles",
+    "description": "150cc 4-Stroke Motorcycle Automatic Motor Gas Motorcycles Scooter motorcycles 150cc scooter",
+    "slug": "Automatic Motor Gas Motorcycles",
+    "price": {
+      "originalPrice": 1086,
+      "currentPrice": 1050,
+      "discountPercentage": 3.34
+    },
+    "rating": 4.84,
+    "brand": {
+      "code": "brncode72",
+      "name": "shock absorber",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod19",
+        "name": "motorcycle"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 127,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc94",
+    "title": "new arrivals Fashion motocross goggles",
+    "description": "new arrivals Fashion motocross goggles motorcycle motocross racing motorcycle",
+    "slug": "new arrivals Fashion motocross goggles",
+    "price": {
+      "originalPrice": 936,
+      "currentPrice": 900,
+      "discountPercentage": 3.85
+    },
+    "rating": 4.06,
+    "brand": {
+      "code": "brncode73",
+      "name": "JIEPOLLY",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod19",
+        "name": "motorcycle"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 109,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc95",
+    "title": "Wholesale cargo lashing Belt",
+    "description": "Wholesale cargo lashing Belt Tie Down end Ratchet strap customized strap 25mm motorcycle 1500kgs with rubber handle",
+    "slug": "Wholesale cargo lashing Belt",
+    "price": {
+      "originalPrice": 1129,
+      "currentPrice": 930,
+      "discountPercentage": 17.67
+    },
+    "rating": 4.21,
+    "brand": {
+      "code": "brncode74",
+      "name": "Xiangle",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod19",
+        "name": "motorcycle"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 144,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc96",
+    "title": "lighting ceiling kitchen",
+    "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+    "slug": "lighting ceiling kitchen",
+    "price": {
+      "originalPrice": 35,
+      "currentPrice": 30,
+      "discountPercentage": 14.89
+    },
+    "rating": 4.83,
+    "brand": {
+      "code": "brncode75",
+      "name": "lightingbrilliance",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod20",
+        "name": "lighting"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 96,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc97",
+    "title": "Metal Ceramic Flower",
+    "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
+    "slug": "Metal Ceramic Flower",
+    "price": {
+      "originalPrice": 39,
+      "currentPrice": 35,
+      "discountPercentage": 10.94
+    },
+    "rating": 4.93,
+    "brand": {
+      "code": "brncode76",
+      "name": "Ifei Home",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod20",
+        "name": "lighting"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 146,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc98",
+    "title": "3 lights lndenpant kitchen islang",
+    "description": "3 lights lndenpant kitchen islang dining room pendant rice paper chandelier contemporary led pendant light modern chandelier",
+    "slug": "3 lights lndenpant kitchen islang",
+    "price": {
+      "originalPrice": 36,
+      "currentPrice": 34,
+      "discountPercentage": 5.92
+    },
+    "rating": 4.99,
+    "brand": {
+      "code": "brncode77",
+      "name": "DADAWU",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod20",
+        "name": "lighting"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 44,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc99",
+    "title": "American Vintage Wood Pendant Light",
+    "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante",
+    "slug": "American Vintage Wood Pendant Light",
+    "price": {
+      "originalPrice": 50,
+      "currentPrice": 46,
+      "discountPercentage": 8.84
+    },
+    "rating": 4.32,
+    "brand": {
+      "code": "brncode76",
+      "name": "Ifei Home",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod20",
+        "name": "lighting"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 138,
+      "categories": null
+    },
+    "seller": null
+  },
+  {
+    "code": "pc100",
+    "title": "Crystal chandelier maria theresa for 12 light",
+    "description": "Crystal chandelier maria theresa for 12 light",
+    "slug": "Crystal chandelier maria theresa for 12 light",
+    "price": {
+      "originalPrice": 55,
+      "currentPrice": 47,
+      "discountPercentage": 16
+    },
+    "rating": 4.74,
+    "brand": {
+      "code": "brncode78",
+      "name": "YIOSI",
+      "image": "/images/defaultbrand.jpg"
+    },
+    "categories": [
+      {
+        "code": "catcod20",
+        "name": "lighting"
+      }
+    ],
+    "attributes": null,
+    "gallery": {
+      "main": "/images/defaultbrandimg.jpg",
+      "thumbnails": [
+        "/images/defaultthumbnail.jpg"
+      ]
+    },
+    "stock": {
+      "quantity": 133,
+      "categories": null
+    },
+    "seller": null
+  }
+]

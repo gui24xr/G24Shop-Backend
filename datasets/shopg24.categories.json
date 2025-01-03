@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3182"
+  },
+  "code": "catcod1",
+  "name": "smartphones",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3183"
+  },
+  "code": "catcod2",
+  "name": "laptops",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3184"
+  },
+  "code": "catcod3",
+  "name": "fragrances",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3185"
+  },
+  "code": "catcod4",
+  "name": "skincare",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3186"
+  },
+  "code": "catcod5",
+  "name": "groceries",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3187"
+  },
+  "code": "catcod6",
+  "name": "home-decoration",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3188"
+  },
+  "code": "catcod7",
+  "name": "furniture",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3189"
+  },
+  "code": "catcod8",
+  "name": "tops",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318a"
+  },
+  "code": "catcod9",
+  "name": "womens-dresses",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318b"
+  },
+  "code": "catcod10",
+  "name": "womens-shoes",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318c"
+  },
+  "code": "catcod11",
+  "name": "mens-shirts",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318d"
+  },
+  "code": "catcod12",
+  "name": "mens-shoes",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318e"
+  },
+  "code": "catcod13",
+  "name": "mens-watches",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d318f"
+  },
+  "code": "catcod14",
+  "name": "womens-watches",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3190"
+  },
+  "code": "catcod15",
+  "name": "womens-bags",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3191"
+  },
+  "code": "catcod16",
+  "name": "womens-jewellery",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3192"
+  },
+  "code": "catcod17",
+  "name": "sunglasses",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3193"
+  },
+  "code": "catcod18",
+  "name": "automotive",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3194"
+  },
+  "code": "catcod19",
+  "name": "motorcycle",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676dbc7178d1879fc82d3195"
+  },
+  "code": "catcod20",
+  "name": "lighting",
+  "imgUrl": "/images/defaultcategoryimg.jpg"
+}]

@@ -1,0 +1,632 @@
+[{
+  "_id": {
+    "$oid": "676db7e6a21d4b2be519f9d6"
+  },
+  "name": "nameeefee",
+  "imgUrl": "sdgdsgdgd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3132"
+  },
+  "code": "brncode1",
+  "name": "Apple",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3133"
+  },
+  "code": "brncode2",
+  "name": "Samsung",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3134"
+  },
+  "code": "brncode3",
+  "name": "OPPO",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3135"
+  },
+  "code": "brncode4",
+  "name": "Huawei",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3136"
+  },
+  "code": "brncode5",
+  "name": "Microsoft Surface",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3137"
+  },
+  "code": "brncode6",
+  "name": "Infinix",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3138"
+  },
+  "code": "brncode7",
+  "name": "HP Pavilion",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3139"
+  },
+  "code": "brncode8",
+  "name": "Impression of Acqua Di Gio",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313a"
+  },
+  "code": "brncode9",
+  "name": "Royal_Mirage",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313b"
+  },
+  "code": "brncode10",
+  "name": "Fog Scent Xpressio",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313c"
+  },
+  "code": "brncode11",
+  "name": "Al Munakh",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313d"
+  },
+  "code": "brncode12",
+  "name": "Lord - Al-Rehab",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313e"
+  },
+  "code": "brncode13",
+  "name": "L'Oreal Paris",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d313f"
+  },
+  "code": "brncode14",
+  "name": "Hemani Tea",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3140"
+  },
+  "code": "brncode15",
+  "name": "Dermive",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3141"
+  },
+  "code": "brncode16",
+  "name": "ROREC White Rice",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3142"
+  },
+  "code": "brncode17",
+  "name": "Fair & Clear",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3143"
+  },
+  "code": "brncode18",
+  "name": "Saaf & Khaas",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3144"
+  },
+  "code": "brncode19",
+  "name": "Bake Parlor Big",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3145"
+  },
+  "code": "brncode20",
+  "name": "Baking Food Items",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3146"
+  },
+  "code": "brncode21",
+  "name": "fauji",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3147"
+  },
+  "code": "brncode22",
+  "name": "Dry Rose",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3148"
+  },
+  "code": "brncode23",
+  "name": "Boho Decor",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3149"
+  },
+  "code": "brncode24",
+  "name": "Flying Wooden",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314a"
+  },
+  "code": "brncode25",
+  "name": "LED Lights",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314b"
+  },
+  "code": "brncode26",
+  "name": "luxury palace",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314c"
+  },
+  "code": "brncode27",
+  "name": "Golden",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314d"
+  },
+  "code": "brncode28",
+  "name": "Furniture Bed Set",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314e"
+  },
+  "code": "brncode29",
+  "name": "Ratttan Outdoor",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d314f"
+  },
+  "code": "brncode30",
+  "name": "Kitchen Shelf",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3150"
+  },
+  "code": "brncode31",
+  "name": "Multi Purpose",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3151"
+  },
+  "code": "brncode32",
+  "name": "AmnaMart",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3152"
+  },
+  "code": "brncode33",
+  "name": "Professional Wear",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3153"
+  },
+  "code": "brncode34",
+  "name": "Soft Cotton",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3154"
+  },
+  "code": "brncode35",
+  "name": "Top Sweater",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3155"
+  },
+  "code": "brncode36",
+  "name": "RED MICKY MOUSE..",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3156"
+  },
+  "code": "brncode37",
+  "name": "Digital Printed",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3157"
+  },
+  "code": "brncode38",
+  "name": "Ghazi Fabric",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3158"
+  },
+  "code": "brncode39",
+  "name": "IELGY",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3159"
+  },
+  "code": "brncode40",
+  "name": "IELGY fashion",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315a"
+  },
+  "code": "brncode41",
+  "name": "Synthetic Leather",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315b"
+  },
+  "code": "brncode42",
+  "name": "Sandals Flip Flops",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315c"
+  },
+  "code": "brncode43",
+  "name": "Maasai Sandals",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315d"
+  },
+  "code": "brncode44",
+  "name": "Arrivals Genuine",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315e"
+  },
+  "code": "brncode45",
+  "name": "Vintage Apparel",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d315f"
+  },
+  "code": "brncode46",
+  "name": "FREE FIRE",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3160"
+  },
+  "code": "brncode47",
+  "name": "The Warehouse",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3161"
+  },
+  "code": "brncode48",
+  "name": "Sneakers",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3162"
+  },
+  "code": "brncode49",
+  "name": "Rubber",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3163"
+  },
+  "code": "brncode50",
+  "name": "Naviforce",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3164"
+  },
+  "code": "brncode51",
+  "name": "SKMEI 9117",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3165"
+  },
+  "code": "brncode52",
+  "name": "Strap Skeleton",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3166"
+  },
+  "code": "brncode53",
+  "name": "Stainless",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3167"
+  },
+  "code": "brncode54",
+  "name": "Eastern Watches",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3168"
+  },
+  "code": "brncode55",
+  "name": "Luxury Digital",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3169"
+  },
+  "code": "brncode56",
+  "name": "Watch Pearls",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316a"
+  },
+  "code": "brncode57",
+  "name": "Bracelet",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316b"
+  },
+  "code": "brncode58",
+  "name": "LouisWill",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316c"
+  },
+  "code": "brncode59",
+  "name": "Copenhagen Luxe",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316d"
+  },
+  "code": "brncode60",
+  "name": "Steal Frame",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316e"
+  },
+  "code": "brncode61",
+  "name": "Darojay",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d316f"
+  },
+  "code": "brncode62",
+  "name": "Fashion Jewellery",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3170"
+  },
+  "code": "brncode63",
+  "name": "Cuff Butterfly",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3171"
+  },
+  "code": "brncode64",
+  "name": "Designer Sun Glasses",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3172"
+  },
+  "code": "brncode65",
+  "name": "mastar watch",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3173"
+  },
+  "code": "brncode66",
+  "name": "Car Aux",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3174"
+  },
+  "code": "brncode67",
+  "name": "W1209 DC12V",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3175"
+  },
+  "code": "brncode68",
+  "name": "TC Reusable",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3176"
+  },
+  "code": "brncode69",
+  "name": "Neon LED Light",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3177"
+  },
+  "code": "brncode70",
+  "name": "METRO 70cc Motorcycle - MR70",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3178"
+  },
+  "code": "brncode71",
+  "name": "BRAVE BULL",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d3179"
+  },
+  "code": "brncode72",
+  "name": "shock absorber",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317a"
+  },
+  "code": "brncode73",
+  "name": "JIEPOLLY",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317b"
+  },
+  "code": "brncode74",
+  "name": "Xiangle",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317c"
+  },
+  "code": "brncode75",
+  "name": "lightingbrilliance",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317d"
+  },
+  "code": "brncode76",
+  "name": "Ifei Home",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317e"
+  },
+  "code": "brncode77",
+  "name": "DADAWU",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+},
+{
+  "_id": {
+    "$oid": "676db8bc78d1879fc82d317f"
+  },
+  "code": "brncode78",
+  "name": "YIOSI",
+  "imgUrl": "/images/defaultbrandimg.jpg"
+}]

@@ -1,0 +1,217 @@
+[
+    {
+      "name": "box",
+      "description": "Standard rectangular package.",
+      "commonUses": ["Clothing", "Technology", "Appliances"],
+      "translations": {
+        "es": {
+          "name": "Caja",
+          "description": "Paquete rectangular estándar.",
+          "commonUses": ["Ropa", "Tecnología", "Electrodomésticos"]
+        },
+        "fr": {
+          "name": "Boîte",
+          "description": "Paquet rectangulaire standard.",
+          "commonUses": ["Vêtements", "Technologie", "Appareils électroménagers"]
+        }
+      }
+    },
+    {
+      "name": "envelope",
+      "description": "Flat package typically used for documents.",
+      "commonUses": ["Documents", "Small Books", "Cards"],
+      "translations": {
+        "es": {
+          "name": "Sobre",
+          "description": "Paquete plano utilizado generalmente para documentos.",
+          "commonUses": ["Documentos", "Libros pequeños", "Tarjetas"]
+        },
+        "fr": {
+          "name": "Enveloppe",
+          "description": "Paquet plat utilisé généralement pour des documents.",
+          "commonUses": ["Documents", "Petits livres", "Cartes"]
+        }
+      }
+    },
+    {
+     
+      "name": "bag",
+      "description": "Flexible package, usually made of plastic, used for lightweight products.",
+      "commonUses": ["Clothing", "Accessories", "Small Products"],
+      "translations": {
+        "es": {
+          "name": "Bolsa",
+          "description": "Paquete flexible, generalmente hecho de plástico, utilizado para productos livianos.",
+          "commonUses": ["Ropa", "Accesorios", "Productos pequeños"]
+        },
+        "fr": {
+          "name": "Sac",
+          "description": "Emballage flexible, généralement en plastique, utilisé pour les produits légers.",
+          "commonUses": ["Vêtements", "Accessoires", "Produits petits"]
+        }
+      }
+    },
+    {
+     
+      "name": "bubble_wrap_package",
+      "description": "Package that uses bubble wrap for protecting fragile products.",
+      "commonUses": ["Electronics", "Glassware", "Ceramics"],
+      "translations": {
+        "es": {
+          "name": "Paquete con burbujas",
+          "description": "Paquete que utiliza plástico con burbujas para proteger productos frágiles.",
+          "commonUses": ["Electrónica", "Cristalería", "Cerámica"]
+        },
+        "fr": {
+          "name": "Emballage avec bulles",
+          "description": "Emballage qui utilise du plastique à bulles pour protéger les produits fragiles.",
+          "commonUses": ["Électronique", "Verre", "Céramiques"]
+        }
+      }
+    },
+    {
+  
+      "name": "wooden_box",
+      "description": "Reinforced wooden box, used for fragile or heavy products.",
+      "commonUses": ["Furniture", "Machinery", "Heavy Equipment"],
+      "translations": {
+        "es": {
+          "name": "Caja de madera",
+          "description": "Caja reforzada de madera, utilizada para productos frágiles o pesados.",
+          "commonUses": ["Muebles", "Maquinaria", "Equipos pesados"]
+        },
+        "fr": {
+          "name": "Boîte en bois",
+          "description": "Boîte renforcée en bois, utilisée pour les produits fragiles ou lourds.",
+          "commonUses": ["Meubles", "Machines", "Équipements lourds"]
+        }
+      }
+    },
+    {
+      
+      "name": "specialty_boxes",
+      "description": "Custom-designed boxes for products with irregular shapes or sizes.",
+      "commonUses": ["Screens", "Large Appliances", "Luxury Goods"],
+      "translations": {
+        "es": {
+          "name": "Cajas especiales",
+          "description": "Cajas diseñadas a medida para productos con formas o tamaños irregulares.",
+          "commonUses": ["Pantallas", "Electrodomésticos grandes", "Productos de lujo"]
+        },
+        "fr": {
+          "name": "Boîtes spéciales",
+          "description": "Boîtes conçues sur mesure pour des produits aux formes ou tailles irrégulières.",
+          "commonUses": ["Écrans", "Appareils électroménagers", "Produits de luxe"]
+        }
+      }
+    },
+    {
+     
+      "name": "container",
+      "description": "Large structure used for shipping large volumes of products.",
+      "commonUses": ["Wholesale Shipments", "Bulk Products"],
+      "translations": {
+        "es": {
+          "name": "Contenedor",
+          "description": "Estructura grande, utilizada para el envío de grandes volúmenes de productos.",
+          "commonUses": ["Envíos al por mayor", "Productos a granel"]
+        },
+        "fr": {
+          "name": "Conteneur",
+          "description": "Grande structure utilisée pour expédier de gros volumes de produits.",
+          "commonUses": ["Expéditions en gros", "Produits en vrac"]
+        }
+      }
+    },
+    {
+    
+      "name": "tetra_pak",
+      "description": "Package designed for liquids, primarily used in food and beverages.",
+      "commonUses": ["Juices", "Milk", "Wine"],
+      "translations": {
+        "es": {
+          "name": "Tetra Pak",
+          "description": "Paquete diseñado para líquidos, utilizado principalmente en alimentos y bebidas.",
+          "commonUses": ["Jugos", "Leche", "Vino"]
+        },
+        "fr": {
+          "name": "Tetra Pak",
+          "description": "Emballage conçu pour les liquides, principalement utilisé dans les aliments et boissons.",
+          "commonUses": ["Jus", "Lait", "Vin"]
+        }
+      }
+    },
+    {
+   
+      "name": "custom_box",
+      "description": "Box custom-designed for exclusive products or irregular shapes.",
+      "commonUses": ["Luxury Items", "High-End Electronics", "Watches"],
+      "translations": {
+        "es": {
+          "name": "Caja personalizada",
+          "description": "Caja diseñada a medida para productos exclusivos o de formas irregulares.",
+          "commonUses": ["Artículos de lujo", "Electrónica de alta gama", "Relojes"]
+        },
+        "fr": {
+          "name": "Boîte personnalisée",
+          "description": "Boîte conçue sur mesure pour des produits exclusifs ou de formes irrégulières.",
+          "commonUses": ["Articles de luxe", "Électronique haut de gamme", "Montres"]
+        }
+      }
+    },
+    {
+ 
+      "name": "pallet",
+      "description": "Platform used for shipping large quantities of products.",
+      "commonUses": ["Wholesale Shipments", "Bulk Products", "Large Furniture"],
+      "translations": {
+        "es": {
+          "name": "Pallet",
+          "description": "Plataforma utilizada para enviar grandes cantidades de productos.",
+          "commonUses": ["Envíos mayoristas", "Productos a granel", "Muebles grandes"]
+        },
+        "fr": {
+          "name": "Palette",
+          "description": "Plateforme utilisée pour expédier de grandes quantités de produits.",
+          "commonUses": ["Expéditions en gros", "Produits en vrac", "Meubles volumineux"]
+        }
+      }
+    },
+    {
+      
+      "name": "gift_basket_box",
+      "description": "Box or basket used for products sold as gifts.",
+      "commonUses": ["Gifts", "Gourmet Products", "Holiday Baskets"],
+      "translations": {
+        "es": {
+          "name": "Canasta de regalo",
+          "description": "Caja o canasta utilizada para productos que se venden como regalos.",
+          "commonUses": ["Regalos", "Productos gourmet", "Canastas navideñas"]
+        },
+        "fr": {
+          "name": "Panier-cadeau",
+          "description": "Boîte ou panier utilisé pour des produits vendus comme cadeaux.",
+          "commonUses": ["Cadeaux", "Produits gourmets", "Paniers de Noël"]
+        }
+      }
+    },
+    {
+      
+      "name": "tube",
+      "description": "Rigid tube used for long or fragile products like blueprints or posters.",
+      "commonUses": ["Blueprints", "Posters", "Fabric Rolls"],
+      "translations": {
+        "es": {
+          "name": "Tubo",
+          "description": "Tubo rígido utilizado para productos largos o frágiles como planos o pósters.",
+          "commonUses": ["Planos", "Pósters", "Rollos de tela"]
+        },
+        "fr": {
+          "name": "Tube",
+          "description": "Tube rigide utilisé pour des produits longs ou fragiles comme des plans ou des affiches.",
+          "commonUses": ["Plans", "Affiches", "Rouleaux de tissu"]
+        }
+      }
+    }
+  ]
+  

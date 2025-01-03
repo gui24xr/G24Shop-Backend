@@ -1,0 +1,37 @@
+Flujo de Autenticación con Auth0 y Gestión de Estado en el Frontend (React) y Backend
+
+1. El usuario inicia sesión en el frontend (React) con Auth0:
+El frontend (React) utiliza Auth0 para manejar el inicio de sesión. El usuario ingresa sus credenciales (usuario y contraseña) y Auth0 se encarga de la autenticación.
+Si la autenticación es exitosa, Auth0 genera un token JWT (que contiene información sobre el usuario, como el ID, el correo electrónico, etc.) y lo envía al frontend.
+Este JWT es almacenado en el localStorage o en sessionStorage en el navegador para poder enviarlo en futuras solicitudes.
+2. El frontend realiza una solicitud al backend (POST /session), enviando el JWT en el encabezado:
+Una vez que el token está almacenado, el frontend hace una solicitud POST al backend, típicamente a un endpoint como /session o un endpoint de inicio de sesión/validación.
+El JWT se envía dentro del encabezado de la solicitud HTTP con la clave Authorization: Bearer <token>, lo que permite que el backend sepa que el usuario ya está autenticado.
+3. El backend recibe la solicitud y verifica el token JWT:
+El backend recibe la solicitud y verifica si el encabezado de la solicitud contiene un JWT en el campo Authorization.
+Si el token no está presente, el backend devuelve un error de autenticación (por ejemplo, un 401 Unauthorized).
+Si el token está presente, el backend verifica que el token es válido y fue firmado por Auth0. Esta verificación asegura que el token no ha sido manipulado y que es legítimo.
+4. Verificación del token con Auth0 en el backend:
+El backend debe verificar que el token proviene de Auth0 y que es válido. Para hacer esto, utiliza la clave pública de Auth0 para verificar la firma del token JWT y asegurarse de que no ha expirado.
+Si el token es válido, el backend puede extraer información del usuario del token, como el ID de usuario o el correo electrónico, que se encuentra en el payload del token.
+5. El backend consulta su base de datos para ver si el usuario ya existe:
+El backend usa el user ID o el correo electrónico extraído del token para buscar al usuario en su base de datos.
+Si el usuario ya existe, el backend simplemente devuelve los datos existentes del usuario (como su nombre, correo electrónico, etc.).
+Si el usuario no existe en la base de datos, el backend lo crea y también puede crear un carrito vacío para él (o cualquier otro recurso asociado al usuario).
+6. El backend responde al frontend con los datos del usuario y el carrito (si fue creado o ya existía):
+Una vez que el backend obtiene (o crea) el usuario y el carrito, responde al frontend con los datos correspondientes.
+La respuesta puede incluir información como el nombre del usuario, el correo electrónico y el carrito de compras (con los artículos actuales o vacío si el usuario es nuevo).
+Si el usuario ya existía, el carrito será el que estaba previamente asociado a ese usuario.
+7. El frontend recibe la respuesta y actualiza el estado en el store de Zustand:
+Una vez que el frontend recibe la respuesta exitosa del backend (por ejemplo, un estado 200 OK), toma los datos del usuario y del carrito que llegaron en la respuesta.
+Usando Zustand (o cualquier otro store que estés utilizando), el frontend actualiza su estado local con los datos del usuario y el carrito.
+Esto asegura que la interfaz de usuario (UI) se actualice automáticamente con la información del usuario y su carrito. Por ejemplo, podrías mostrar el nombre del usuario en el encabezado y los artículos en el carrito de compras.
+Con esto, tu aplicación está completamente sincronizada con el backend, y el estado de los datos del usuario y el carrito está gestionado de forma centralizada.
+Resumen del Flujo:
+El frontend autentica al usuario con Auth0 y obtiene un JWT.
+El frontend realiza una solicitud al backend con el JWT en el encabezado.
+El backend verifica el JWT para asegurarse de que es válido.
+El backend valida el token con la clave pública de Auth0 y extrae la información del usuario.
+El backend consulta su base de datos para verificar si el usuario ya existe.
+El backend responde con los datos del usuario y el carrito (si fue creado o ya existía).
+El frontend recibe la respuesta, actualiza el estado usando Zustand y muestra los datos del usuario y su carrito en la UI.

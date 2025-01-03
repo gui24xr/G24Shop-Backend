@@ -1,0 +1,393 @@
+[
+    {
+      "code": "brncode1",
+      "name": "Apple",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode2",
+      "name": "Samsung",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode3",
+      "name": "OPPO",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode4",
+      "name": "Huawei",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode5",
+      "name": "Microsoft Surface",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode6",
+      "name": "Infinix",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode7",
+      "name": "HP Pavilion",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode8",
+      "name": "Impression of Acqua Di Gio",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode9",
+      "name": "Royal_Mirage",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode10",
+      "name": "Fog Scent Xpressio",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode11",
+      "name": "Al Munakh",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode12",
+      "name": "Lord - Al-Rehab",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode13",
+      "name": "L'Oreal Paris",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode14",
+      "name": "Hemani Tea",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode15",
+      "name": "Dermive",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode16",
+      "name": "ROREC White Rice",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode17",
+      "name": "Fair & Clear",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode18",
+      "name": "Saaf & Khaas",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode19",
+      "name": "Bake Parlor Big",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode20",
+      "name": "Baking Food Items",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode21",
+      "name": "fauji",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode22",
+      "name": "Dry Rose",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode23",
+      "name": "Boho Decor",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode24",
+      "name": "Flying Wooden",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode25",
+      "name": "LED Lights",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode26",
+      "name": "luxury palace",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode27",
+      "name": "Golden",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode28",
+      "name": "Furniture Bed Set",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode29",
+      "name": "Ratttan Outdoor",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode30",
+      "name": "Kitchen Shelf",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode31",
+      "name": "Multi Purpose",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode32",
+      "name": "AmnaMart",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode33",
+      "name": "Professional Wear",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode34",
+      "name": "Soft Cotton",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode35",
+      "name": "Top Sweater",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode36",
+      "name": "RED MICKY MOUSE..",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode37",
+      "name": "Digital Printed",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode38",
+      "name": "Ghazi Fabric",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode39",
+      "name": "IELGY",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode40",
+      "name": "IELGY fashion",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode41",
+      "name": "Synthetic Leather",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode42",
+      "name": "Sandals Flip Flops",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode43",
+      "name": "Maasai Sandals",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode44",
+      "name": "Arrivals Genuine",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode45",
+      "name": "Vintage Apparel",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode46",
+      "name": "FREE FIRE",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode47",
+      "name": "The Warehouse",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode48",
+      "name": "Sneakers",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode49",
+      "name": "Rubber",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode50",
+      "name": "Naviforce",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode51",
+      "name": "SKMEI 9117",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode52",
+      "name": "Strap Skeleton",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode53",
+      "name": "Stainless",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode54",
+      "name": "Eastern Watches",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode55",
+      "name": "Luxury Digital",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode56",
+      "name": "Watch Pearls",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode57",
+      "name": "Bracelet",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode58",
+      "name": "LouisWill",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode59",
+      "name": "Copenhagen Luxe",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode60",
+      "name": "Steal Frame",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode61",
+      "name": "Darojay",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode62",
+      "name": "Fashion Jewellery",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode63",
+      "name": "Cuff Butterfly",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode64",
+      "name": "Designer Sun Glasses",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode65",
+      "name": "mastar watch",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode66",
+      "name": "Car Aux",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode67",
+      "name": "W1209 DC12V",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode68",
+      "name": "TC Reusable",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode69",
+      "name": "Neon LED Light",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode70",
+      "name": "METRO 70cc Motorcycle - MR70",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode71",
+      "name": "BRAVE BULL",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode72",
+      "name": "shock absorber",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode73",
+      "name": "JIEPOLLY",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode74",
+      "name": "Xiangle",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode75",
+      "name": "lightingbrilliance",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode76",
+      "name": "Ifei Home",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode77",
+      "name": "DADAWU",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    },
+    {
+      "code": "brncode78",
+      "name": "YIOSI",
+      "imgUrl": "/images/defaultbrandimg.jpg"
+    }
+  ]
+  

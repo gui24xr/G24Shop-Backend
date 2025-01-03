@@ -1,0 +1,24 @@
+import mongoose from "mongoose"
+
+const modelName = 'Brand'
+
+const brandSchema  = new mongoose.Schema({
+    name:{
+        type: String,
+        required: true,
+        unique: true,
+        allowNull: false
+    },
+    code:{
+        type: String,
+        required: false
+    },
+    imgUrl:{
+        type: String,
+        required: false
+    },
+       
+})
+
+
+export const Brand  = mongoose.model(modelName,brandSchema)

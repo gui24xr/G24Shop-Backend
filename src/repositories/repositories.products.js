@@ -3,7 +3,7 @@ import { ObjectId } from "bson";
 
 export class ProductRepository{
   
-    async  getAll({category,brand,searchQuery}){
+    async  getAll({category,brand,searchQuery,page,limit}){
        try{
          console.log({category,brand, searchQuery})
           
@@ -15,6 +15,7 @@ export class ProductRepository{
             ]}
             if (searchQuery) {
               filter.description = { 
+                //***---------- POR ALGUN MOTIVO NO BUSCA, REVISARLO */
                 $regex: new RegExp(searchQuery, 'i') // 'i' para insensibilidad a mayúsculas
               };
             }

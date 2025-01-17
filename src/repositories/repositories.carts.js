@@ -13,8 +13,10 @@ export class CartsRepository{
               productsList: cart.productsList.map( productInList => ({
                 id: productInList.product._id.toString(),
                 currentPrice: Math.floor(productInList.product.price.originalPrice/(1-(productInList.product.price.discountPercentage/100))),
-                quantity: productInList.quantity
-                
+                quantity: productInList.quantity,
+                brand: productInList.product.brand.name,
+                title: productInList.product.title,
+                stock: productInList.product.stock
               })) 
           }     
       }
@@ -23,7 +25,15 @@ export class CartsRepository{
         try{
             const filter = {}
             if (_id) filter._id = _id
-            const results = await Cart.find({...filter}).populate(['productsList.product']).lean().select('-__v')
+            const results = await Cart.find({...filter}).populate([
+                'productsList.product',
+                {
+                    path: 'productsList.product',
+                    populate:{
+                        path: 'brand'
+                    }
+                }
+            ]).lean().select('-__v')
             const entityDTOList = results.map(item => (this.transformEntityToDTO(item)))
             return entityDTOList
         }catch(err){

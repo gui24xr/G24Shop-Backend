@@ -1921,7 +1921,112 @@
       "productsQuantity": 0
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "5df5",
+      "buyer": {
+        "id": "2fa0",
+        "email": "guillermoxr24@gmail.com",
+        "userName": "guillermoxr24",
+        "firstName": "Guillermo",
+        "lastName": "Guardia",
+        "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJUxn76vXYS_VSt-Ie8gA8kcULyKdTUXcTX-BOSbikBMLwvEg=s96-c",
+        "cartId": "1b3e"
+      },
+      "detail": [
+        {
+          "id": "1",
+          "title": "iPhone 9",
+          "brand": "Apple",
+          "price": 549,
+          "quantity": 2,
+          "subTotalAmount": 1098
+        }
+      ],
+      "amount": 1098,
+      "payment": null,
+      "shipping": null,
+      "state": "created"
+    },
+    {
+      "id": "1f32",
+      "buyer": {
+        "id": "2fa0",
+        "email": "guillermoxr24@gmail.com",
+        "userName": "guillermoxr24",
+        "firstName": "Guillermo",
+        "lastName": "Guardia",
+        "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJUxn76vXYS_VSt-Ie8gA8kcULyKdTUXcTX-BOSbikBMLwvEg=s96-c",
+        "cartId": "1b3e"
+      },
+      "detail": [
+        {
+          "id": "1",
+          "title": "iPhone 9",
+          "brand": "Apple",
+          "price": 549,
+          "quantity": 2,
+          "subTotalAmount": 1098
+        }
+      ],
+      "amount": 1098,
+      "payment": null,
+      "shipping": null,
+      "state": "created"
+    },
+    {
+      "id": "4e27",
+      "buyer": {
+        "id": "2fa0",
+        "email": "guillermoxr24@gmail.com",
+        "userName": "guillermoxr24",
+        "firstName": "Guillermo",
+        "lastName": "Guardia",
+        "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJUxn76vXYS_VSt-Ie8gA8kcULyKdTUXcTX-BOSbikBMLwvEg=s96-c",
+        "cartId": "1b3e"
+      },
+      "detail": [
+        {
+          "id": "1",
+          "title": "iPhone 9",
+          "brand": "Apple",
+          "price": 549,
+          "quantity": 2,
+          "subTotalAmount": 1098
+        }
+      ],
+      "amount": 1098,
+      "payment": null,
+      "shipping": null,
+      "state": "created"
+    },
+    {
+      "id": "fe9c",
+      "buyer": {
+        "id": "2fa0",
+        "email": "guillermoxr24@gmail.com",
+        "userName": "guillermoxr24",
+        "firstName": "Guillermo",
+        "lastName": "Guardia",
+        "profilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJUxn76vXYS_VSt-Ie8gA8kcULyKdTUXcTX-BOSbikBMLwvEg=s96-c",
+        "cartId": "1b3e"
+      },
+      "detail": [
+        {
+          "id": "1",
+          "title": "iPhone 9",
+          "brand": "Apple",
+          "price": 549,
+          "quantity": 2,
+          "subTotalAmount": 1098
+        }
+      ],
+      "amount": 1098,
+      "payment": null,
+      "shipping": null,
+      "state": "created"
+    }
+  ],
   "shippingPoints": [],
   "paymentMethods": [
     {
